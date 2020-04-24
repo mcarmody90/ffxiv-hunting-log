@@ -1,0 +1,7085 @@
+{
+  "Arcanist": {
+    "Rank 1": {
+      "Completion Reward": 2500,
+      "Tasks": [{
+        "Title": "Arcanist 01",
+        "Target": [{
+          "Name": "Little Ladybug",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
+          "Coordinates": {
+            "x": 22,
+            "y": 24
+          }
+        }],
+        "Experience": 75
+      },
+      {
+        "Title": "Arcanist 02",
+        "Target": [{
+          "Name": "Wharf Rat",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
+          "Coordinates": {
+            "x": 21,
+            "y": 23
+          }
+        }],
+        "Experience": 180
+      },
+      {
+        "Title": "Arcanist 03",
+        "Target": [{
+          "Name": "Lost Lamb",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
+          "Coordinates": {
+            "x": 23,
+            "y": 24
+          }
+        }],
+        "Experience": 360
+      },
+      {
+        "Title": "Arcanist 04",
+        "Target": [{
+          "Name": "Wind Sprite",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
+          "Coordinates": {
+            "x": 28,
+            "y": 20
+          }
+        }],
+        "Experience": 410
+      },
+      {
+        "Title": "Arcanist 05",
+        "Target": [{
+          "Name": "Puk Hatchling",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
+          "Coordinates": {
+            "x": 20,
+            "y": 19
+          }
+        }],
+        "Experience": 530
+      },
+      {
+        "Title": "Arcanist 06",
+        "Target": [{
+          "Name": "Nesting Buzzard",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
+          "Coordinates": {
+            "x": 31,
+            "y": 16
+          }
+        }],
+        "Experience": 980
+      },
+      {
+        "Title": "Arcanist 07",
+        "Target": [{
+          "Name": "Bogy",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
+          "Coordinates": {
+            "x": 20,
+            "y": 19
+          }
+        }],
+        "Experience": 1100
+      },
+      {
+        "Title": "Arcanist 08",
+        "Target": [{
+          "Name": "Cave Bat",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
+          "Coordinates": {
+            "x": 25,
+            "y": 15
+          }
+        },
+        {
+          "Name": "Galago",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
+          "Coordinates": {
+            "x": 29,
+            "y": 14
+          }
+        }],
+        "Experience": 1300
+      },
+      {
+        "Title": "Arcanist 09",
+        "Target": [{
+          "Name": "Grounded Pirate",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
+          "Coordinates": {
+            "x": 20,
+            "y": 16
+          }
+        }],
+        "Experience": 1600
+      },
+      {
+        "Title": "Arcanist 10",
+        "Target": [{
+          "Name": "Lightning Sprite",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
+          "Coordinates": {
+            "x": 20,
+            "y": 32
+          }
+        }],
+        "Experience": 1700
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 10000,
+      "Tasks": [{
+        "Title": "Arcanist 11",
+        "Target": [{
+          "Name": "Sewer Mole",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
+          "Coordinates": {
+            "x": 33,
+            "y": 28
+          }
+        }],
+        "Experience": 2300
+      },
+      {
+        "Title": "Arcanist 12",
+        "Target": [{
+          "Name": "Mossless Goobbue",
+          "Quantity": 3,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
+          "Coordinates": {
+            "x": 21,
+            "y": 23
+          }
+        }],
+        "Experience": 3200
+      },
+      {
+        "Title": "Arcanist 13",
+        "Target": [{
+          "Name": "Fat Dodo",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
+          "Coordinates": {
+            "x": 32,
+            "y": 27
+          }
+        }],
+        "Experience": 4000
+      },
+      {
+        "Title": "Arcanist 14",
+        "Target": [{
+          "Name": "Arbor Buzzard",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
+          "Coordinates": {
+            "x": 30,
+            "y": 29
+          }
+        }],
+        "Experience": 4500
+      },
+      {
+        "Title": "Arcanist 15",
+        "Target": [{
+          "Name": "Qiqirn Eggdigger",
+          "Quantity": 3,
+          "Zone": "Lower La Noscea",
+          "Subzone": "God's Grip",
+          "Coordinates": {
+            "x": 18,
+            "y": 35
+          }
+        }],
+        "Experience": 5000
+      },
+      {
+        "Title": "Arcanist 16",
+        "Target": [{
+          "Name": "Dusk Bat",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 28,
+            "y": 22
+          }
+        }],
+        "Experience": 5300
+      },
+      {
+        "Title": "Arcanist 17",
+        "Target": [{
+          "Name": "Puk Hatchling",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 28,
+            "y": 22
+          }
+        }],
+        "Experience": 5500
+      },
+      {
+        "Title": "Arcanist 18",
+        "Target": [{
+          "Name": "Hedgemole",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 26,
+            "y": 23
+          }
+          },
+          {
+            "Name": "Rothlyt Pelican",
+            "Quantity": 3,
+            "Zone": "Western La Noscea",
+            "Subzone": "Skull Valley",
+            "Coordinates": {
+              "x": 24,
+              "y": 22
+            }
+          }],
+        "Experience": 5700
+      },
+      {
+        "Title": "Arcanist 19",
+        "Target": [{
+          "Name": "Killer Mantis",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 22,
+            "y": 20
+          }
+        }],
+        "Experience": 5900
+      },
+      {
+        "Title": "Arcanist 20",
+        "Target": [{
+          "Name": "Bumble Beetle",
+          "Quantity": 3,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Poor Maid's Mill",
+          "Coordinates": {
+            "x": 12,
+            "y": 23
+          }
+        }],
+        "Experience": 6100
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 20000,
+      "Tasks": [{
+        "Title": "Arcanist 21",
+        "Target": [{
+          "Name": "Overgrown Ivy",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
+          "Coordinates": {
+            "x": 23,
+            "y": 29
+          }
+        }],
+        "Experience": 6300
+      },
+      {
+        "Title": "Arcanist 22",
+        "Target": [{
+          "Name": "Lead Coblyn",
+          "Quantity": 4,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
+          "Coordinates": {
+            "x": 13,
+            "y": 10
+          }
+        }],
+        "Experience": 6500
+      },
+      {
+        "Title": "Arcanist 23",
+        "Target": [{
+          "Name": "Kedtrap",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
+          "Coordinates": {
+            "x": 21,
+            "y": 21
+          }
+        }],
+        "Experience": 6700
+      },
+      {
+        "Title": "Arcanist 24",
+        "Target": [{
+          "Name": "Coeurl Pup",
+          "Quantity": 4,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
+          "Coordinates": {
+            "x": 9,
+            "y": 20
+          }
+        }],
+        "Experience": 6900
+      },
+      {
+        "Title": "Arcanist 25",
+        "Target": [{
+          "Name": "Antelope Stag",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
+          "Coordinates": {
+            "x": 22,
+            "y": 20
+          }
+        }],
+        "Experience": 7100
+      },
+      {
+        "Title": "Arcanist 26",
+        "Target": [{
+          "Name": "Balloon",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
+          "Coordinates": {
+            "x": 17,
+            "y": 26
+          }
+        },
+        {
+          "Name": "Chasm Buzzard",
+          "Quantity": 2,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
+          "Coordinates": {
+            "x": 22,
+            "y": 20
+          }
+        }],
+        "Experience": 7600
+      },
+      {
+        "Title": "Arcanist 27",
+        "Target": [{
+          "Name": "Axe Beak",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
+          "Coordinates": {
+            "x": 25,
+            "y": 18
+          }
+        }],
+        "Experience": 8600
+      },
+      {
+        "Title": "Arcanist 28",
+        "Target": [{
+          "Name": "Clay Golem",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
+          "Coordinates": {
+            "x": 19,
+            "y": 28
+          }
+        },
+        {
+          "Name": "Sandstone Golem",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
+          "Coordinates": {
+            "x": 22,
+            "y": 11
+          }
+        }],
+        "Experience": 9400
+      },
+      {
+        "Title": "Arcanist 29",
+        "Target": [{
+          "Name": "Brood Ziz",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
+          "Coordinates": {
+            "x": 15,
+            "y": 20
+          }
+        }],
+        "Experience": 9700
+      },
+      {
+        "Title": "Arcanist 30",
+        "Target": [{
+          "Name": "Lindwurm",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
+          "Coordinates": {
+            "x": 13,
+            "y": 19
+          }
+        }],
+        "Experience": 10000
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 30000,
+      "Tasks": [{
+        "Title": "Arcanist 31",
+        "Target": [{
+          "Name": "Qiqirn Gullroaster",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
+          "Coordinates": {
+            "x": 26,
+            "y": 32
+          }
+        }],
+        "Experience": 11000
+      },
+      {
+        "Title": "Arcanist 32",
+        "Target": [{
+          "Name": "Grass Raptor",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 16,
+            "y": 25
+          }
+        }],
+        "Experience": 12000
+      },
+      {
+        "Title": "Arcanist 33",
+        "Target": [{
+          "Name": "Gigantoad",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 18,
+            "y": 26
+          }
+        }],
+        "Experience": 12500
+      },
+      {
+        "Title": "Arcanist 34",
+        "Target": [{
+          "Name": "Sundrake",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 25,
+            "y": 38
+          }
+        }],
+        "Experience": 13000
+      },
+      {
+        "Title": "Arcanist 35",
+        "Target": [{
+          "Name": "Colibri",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
+          "Coordinates": {
+            "x": 30,
+            "y": 24
+          }
+        }],
+        "Experience": 13500
+      },
+      {
+        "Title": "Arcanist 36",
+        "Target": [{
+          "Name": "Coeurl",
+          "Quantity": 4,
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
+          "Coordinates": {
+            "x": 14,
+            "y": 14
+          }
+        },
+        {
+          "Name": "Mildewed Goobue",
+          "Quantity": 1,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 17,
+            "y": 32
+          }
+        }],
+        "Experience": 14000
+      },
+      {
+        "Title": "Arcanist 37",
+        "Target": [{
+          "Name": "Snow Wolf Pup",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 21,
+            "y": 29
+          }
+        }],
+        "Experience": 14500
+      },
+      {
+        "Title": "Arcanist 38",
+        "Target": [{
+          "Name": "Feral Croc",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 27,
+            "y": 24
+          }
+        },
+        {
+          "Name": "Dryad",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Proud Creek",
+          "Coordinates": {
+            "x": 23,
+            "y": 25
+          }
+        }],
+        "Experience": 1500
+      },
+      {
+        "Title": "Arcanist 39",
+        "Target": [{
+          "Name": "Taurus",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
+          "Coordinates": {
+            "x": 32,
+            "y": 12
+          }
+        }],
+        "Experience": 16000
+      },
+      {
+        "Title": "Arcanist 40",
+        "Target": [{
+          "Name": "Molted Ziz",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
+          "Coordinates": {
+            "x": 25,
+            "y": 24
+          }
+        }],
+        "Experience": 16500
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 40000,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "Quartz Doblyn",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "The Burning Wall",
+          "Coordinates": {
+            "x": 30,
+            "y": 25
+          }
+        }],
+        "Experience": 17000
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "Lammergeyer",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "The Isles of Umbra",
+          "Coordinates": {
+            "x": 12,
+            "y": 36
+          }
+        }],
+        "Experience": 17500
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "3rd Cohort Laquearius",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
+          "Coordinates": {
+            "x": 29,
+            "y": 20
+          }
+        }],
+        "Experience": 18000
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "Nix",
+          "Quantity": 4,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
+          "Coordinates": {
+            "x": 19,
+            "y": 9
+          }
+        },
+        {
+          "Name": "Mudpuppy",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
+          "Coordinates": {
+            "x": 18,
+            "y": 30
+          }
+        }],
+        "Experience": 18500
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "Wild Hog",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Urth's Gift",
+          "Coordinates": {
+            "x": 29,
+            "y": 24
+          }
+        }],
+        "Experience": 19000
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "Watchwolf",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Proud Creek",
+          "Coordinates": {
+            "x": 20,
+            "y": 18
+          }
+        },
+        {
+          "Name": "5th Cohort Laquearius",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
+          "Coordinates": {
+            "x": 11,
+            "y": 11
+          }
+        }],
+        "Experience": 19500
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "Snow Wolf",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
+          "Coordinates": {
+            "x": 16,
+            "y": 32
+          }
+        }],
+        "Experience": 20000
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "Natalan Watchwolf",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Natalan",
+          "Coordinates": {
+            "x": 31,
+            "y": 18
+          }
+        },
+        {
+          "Name": "Axolotl",
+          "Quantity": 2,
+          "Zone": "Western La Noscea",
+          "Subzone": "Sapsa Spawning Grounds",
+          "Coordinates": {
+            "x": 12,
+            "y": 15
+          }
+        }],
+        "Experience": 20500
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "Zehar'ak Battle Drake",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zahar'ak",
+          "Coordinates": {
+            "x": 13,
+            "y": 19
+          }
+        }],
+        "Experience": 21000
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "4th Cohort Vanguard",
+          "Quantity": 4,
+          "Zone": "Western Thanalan",
+          "Subzone": "Cape Westwind",
+          "Coordinates": {
+            "x": 12,
+            "y": 7
+          }
+        }],
+        "Experience": 21500
+      }]
+    }
+  },
+  "Archer": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Archer 01",
+        "Target": [{
+          "Name": "Little Ladybug",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Treespeak",
+          "Coordinates": {
+            "x": 25,
+            "y": 27
+          }
+        }],
+        "Experience": 75
+      },
+      {
+        "Title": "Archer 02",
+        "Target": [{
+          "Name": "Ground Squirrel",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
+          "Coordinates": {
+            "x": 22,
+            "y": 17
+          }
+        }],
+        "Experience": 180
+      },
+      {
+        "Title": "Archer 03",
+        "Target": [{
+          "Name": "Forest Funguar",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
+          "Coordinates": {
+            "x": 24,
+            "y": 18
+          }
+        }],
+        "Experience": 360
+      },
+      {
+        "Title": "Archer 04",
+        "Target": [{
+          "Name": "Miteling",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Treespeak",
+          "Coordinates": {
+            "x": 25,
+            "y": 27
+          }
+        }],
+        "Experience": 410
+      },
+      {
+        "Title": "Archer 05",
+        "Target": [{
+          "Name": "Midge Swarm",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Peacegarden",
+          "Coordinates": {
+            "x": 27,
+            "y": 21
+          }
+        }],
+        "Experience": 530
+      },
+      {
+        "Title": "Archer 06",
+        "Target": [{
+          "Name": "Water Sprite",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
+          "Coordinates": {
+            "x": 25,
+            "y": 21
+          }
+        }],
+        "Experience": 980
+      },
+      {
+        "Title": "Archer 07",
+        "Target": [{
+          "Name": "Black Eft",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
+          "Coordinates": {
+            "x": 26,
+            "y": 19
+          }
+        }],
+        "Experience": 1100
+      },
+      {
+        "Title": "Archer 08",
+        "Target": [{
+          "Name": "Anole",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Greentear",
+          "Coordinates": {
+            "x": 30,
+            "y": 20
+          }
+        }],
+        "Experience": 1300
+      },
+      {
+        "Title": "Archer 09",
+        "Target": [{
+          "Name": "Trickster Imp",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Greentear",
+          "Coordinates": {
+            "x": 26,
+            "y": 25
+          }
+        }],
+        "Experience": 1600
+      },
+      {
+        "Title": "Archer 10",
+        "Target": [{
+          "Name": "Roselet",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Bentbranch",
+          "Coordinates": {
+            "x": 22,
+            "y": 26
+          }
+        }],
+        "Experience": 1700
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Archer 11",
+        "Target": [{
+          "Name": "Hornet Swarm",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 23,
+            "y": 25
+          }
+        }],
+        "Experience": 2300
+      },
+      {
+        "Title": "Archer 12",
+        "Target": [{
+          "Name": "Arbor Buzzard",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 26,
+            "y": 29
+          }
+        }],
+        "Experience": 3200
+      },
+      {
+        "Title": "Archer 13",
+        "Target": [{
+          "Name": "Magicked Bones",
+          "Quantity": 1,
+          "Zone": "Central Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 19,
+            "y": 27
+          }
+        },
+        {
+          "Name": "Treant Sapling",
+          "Quantity": 1,
+          "Zone": "Central Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 27,
+            "y": 15
+          }
+        },
+        {
+          "Name": "Goblin Hunter",
+          "Quantity": 1,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 13,
+            "y": 27
+          }
+        },
+        {
+          "Name": "Mandragora",
+          "Quantity": 1,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 14,
+            "y": 25
+          }
+        }
+        ],
+        "Experience": 4000
+      },
+      {
+        "Title": "Archer 14",
+        "Target": [{
+          "Name": "Wild Hoglet",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 13,
+            "y": 23
+          }
+        }],
+        "Experience": 4500
+      },
+      {
+        "Title": "Archer 15",
+        "Target": [{
+          "Name": "Lemur",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 20,
+            "y": 29
+          }
+        }],
+        "Experience": 5000
+      },
+      {
+        "Title": "Archer 16",
+        "Target": [{
+          "Name": "Faerie Funguar",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 18,
+            "y": 28
+          }
+        }],
+        "Experience": 5300
+      },
+      {
+        "Title": "Archer 17",
+        "Target": [{
+          "Name": "Giant Gnat",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 19,
+            "y": 27
+          }
+        }],
+        "Experience": 5500
+      },
+      {
+        "Title": "Archer 18",
+        "Target": [{
+          "Name": "Raptor Poacher",
+          "Quantity": 3,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 19,
+            "y": 30
+          }
+        }],
+        "Experience": 5700
+      },
+      {
+        "Title": "Archer 19",
+        "Target": [{
+          "Name": "Antelope Doe",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 15,
+            "y": 18
+          }
+        }],
+        "Experience": 5900
+      },
+      {
+        "Title": "Archer 20",
+        "Target": [{
+          "Name": "Wild Boar",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 16,
+            "y": 23
+          }
+        }],
+        "Experience": 6100
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Archer 21",
+        "Target": [{
+          "Name": "Stoneshell",
+          "Quantity": 5,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
+          "Coordinates": {
+            "x": 13,
+            "y": 24
+          }
+        }],
+        "Experience": 6300
+      },
+      {
+        "Title": "Archer 22",
+        "Target": [{
+          "Name": "Diseased Treant",
+          "Quantity": 5,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
+          "Coordinates": {
+            "x": 16,
+            "y": 23
+          }
+        }],
+        "Experience": 6500
+      },
+      {
+        "Title": "Archer 23",
+        "Target": [{
+          "Name": "Overgrown Offering",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
+          "Coordinates": {
+            "x": 18,
+            "y": 19
+          }
+        },
+        {
+          "Name": "Yarzon Scavenger",
+          "Quantity": 2,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
+          "Coordinates": {
+            "x": 21,
+            "y": 31
+          }
+        },
+        {
+          "Name": "Forest Yarzon",
+          "Quantity": 2,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
+          "Coordinates": {
+            "x": 12,
+            "y": 21
+          }
+        },
+        {
+          "Name": "Jumping Djigga",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
+          "Coordinates": {
+            "x": 16,
+            "y": 21
+          }
+        }],
+        "Experience": 6700
+      },
+      {
+        "Title": "Archer 24",
+        "Target": [{
+          "Name": "Redbelly Sharpeye",
+          "Quantity": 5,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
+          "Coordinates": {
+            "x": 23,
+            "y": 19
+          }
+        }],
+        "Experience": 6900
+      },
+      {
+        "Title": "Archer 25",
+        "Target": [{
+          "Name": "Banemite",
+          "Quantity": 5,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
+          "Coordinates": {
+            "x": 18,
+            "y": 26
+          }
+        }],
+        "Experience": 1700
+      },
+      {
+        "Title": "Archer 26",
+        "Target": [{
+          "Name": "Chasm Buzzard",
+          "Quantity": 5,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
+          "Coordinates": {
+            "x": 22,
+            "y": 19
+          }
+        }],
+        "Experience": 7600
+      },
+      {
+        "Title": "Archer 27",
+        "Target": [{
+          "Name": "Sandskin Peiste",
+          "Quantity": 5,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
+          "Coordinates": {
+            "x": 19,
+            "y": 10
+          }
+        }],
+        "Experience": 8600
+      },
+      {
+        "Title": "Archer 28",
+        "Target": [{
+          "Name": "Ziz",
+          "Quantity": 5,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
+          "Coordinates": {
+            "x": 15,
+            "y": 27
+          }
+        }],
+        "Experience": 9400
+      },
+      {
+        "Title": "Archer 29",
+        "Target": [{
+          "Name": "Toadstool",
+          "Quantity": 5,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
+          "Coordinates": {
+            "x": 15,
+            "y": 17
+          }
+        }],
+        "Experience": 9700
+      },
+      {
+        "Title": "Archer 30",
+        "Target": [{
+          "Name": "Apkallu",
+          "Quantity": 5,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
+          "Coordinates": {
+            "x": 28,
+            "y": 35
+          }
+        }],
+        "Experience": 10000
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Archer 31",
+        "Target": [{
+          "Name": "Floating Eye",
+          "Quantity": 5,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
+          "Coordinates": {
+            "x": 11,
+            "y": 22
+          }
+        }],
+        "Experience": 11000
+      },
+      {
+        "Title": "Archer 32",
+        "Target": [{
+          "Name": "Sandworm",
+          "Quantity": 5,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 23,
+            "y": 32
+          }
+        }],
+        "Experience": 12000
+      },
+      {
+        "Title": "Archer 33",
+        "Target": [{
+          "Name": "Russet Yarzon",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 13,
+            "y": 32
+          }
+        },
+        {
+          "Name": "Giant Pelican",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 20,
+            "y": 32
+          }
+        },
+        {
+          "Name": "Smoke Bomb",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 19,
+            "y": 35
+          }
+        },
+        {
+          "Name": "Spriggan",
+          "Quantity": 2,
+          "Zone": "Central Shroud",
+          "Subzone": "The Standing Corses",
+          "Coordinates": {
+            "x": 12,
+            "y": 16
+          }
+        }],
+        "Experience": 12500
+      },
+      {
+        "Title": "Archer 34",
+        "Target": [{
+          "Name": "Bloodshore Bell",
+          "Quantity": 5,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
+          "Coordinates": {
+            "x": 31,
+            "y": 26
+          }
+        }],
+        "Experience": 13000
+      },
+      {
+        "Title": "Archer 35",
+        "Target": [{
+          "Name": "Jungle Coeurl",
+          "Quantity": 5,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 18,
+            "y": 28
+          }
+        }],
+        "Experience": 13500
+      },
+      {
+        "Title": "Archer 36",
+        "Target": [{
+          "Name": "Ringtail",
+          "Quantity": 2,
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
+          "Coordinates": {
+            "x": 15,
+            "y": 12
+          }
+        },
+        {
+          "Name": "Highland Condor",
+          "Quantity": 2,
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
+          "Coordinates": {
+            "x": 16,
+            "y": 16
+          }
+        },
+        {
+          "Name": "Salamander",
+          "Quantity": 2,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Zelma's Run",
+          "Coordinates": {
+            "x": 27,
+            "y": 24
+          }
+        },
+        {
+          "Name": "Fallen Pikeman",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 21,
+            "y": 38
+          }
+        }],
+        "Experience": 14000
+      },
+      {
+        "Title": "Archer 37",
+        "Target": [{
+          "Name": "Ice Sprite",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 20,
+            "y": 31
+          }
+        }],
+        "Experience": 14500
+      },
+      {
+        "Title": "Archer 38",
+        "Target": [{
+          "Name": "Feral Croc",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 26,
+            "y": 24
+          }
+        }],
+        "Experience": 15000
+      },
+      {
+        "Title": "Archer 39",
+        "Target": [{
+          "Name": "Vodoriga",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
+          "Coordinates": {
+            "x": 27,
+            "y": 14
+          }
+        }],
+        "Experience": 16000
+      },
+      {
+        "Title": "Archer 40",
+        "Target": [{
+          "Name": "Baritine Croc",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Whitebrim",
+          "Coordinates": {
+            "x": 3,
+            "y": 21
+          }
+        }],
+        "Experience": 16500
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Archer 41",
+        "Target": [{
+          "Name": "Hippocerf",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Whitebrim",
+          "Coordinates": {
+            "x": 9,
+            "y": 20
+          }
+        }],
+        "Experience": 17000
+      },
+      {
+        "Title": "Archer 42",
+        "Target": [{
+          "Name": "Dragonfly",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Whitebrim",
+          "Coordinates": {
+            "x": 9,
+            "y": 14
+          }
+        }],
+        "Experience": 17500
+      },
+      {
+        "Title": "Archer 43",
+        "Target": [{
+          "Name": "Oldgrowth Treant",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
+          "Coordinates": {
+            "x": 25,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Lammergeyer",
+          "Quantity": 2,
+          "Zone": "Western La Noscea",
+          "Subzone": "The Isles of Umbra",
+          "Coordinates": {
+            "x": 12,
+            "y": 36
+          }
+        },
+        {
+          "Name": "Dead Man's Moan",
+          "Quantity": 2,
+          "Zone": "Western La Noscea",
+          "Subzone": "The Isles of Umbra",
+          "Coordinates": {
+            "x": 16,
+            "y": 31
+          }
+        },
+        {
+          "Name": "Morbol",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
+          "Coordinates": {
+            "x": 23,
+            "y": 21
+          }
+        }],
+        "Experience": 18000
+      },
+      {
+        "Title": "Archer 44",
+        "Target": [{
+          "Name": "Mudpuppy",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
+          "Coordinates": {
+            "x": 16,
+            "y": 30
+          }
+        }],
+        "Experience": 18500
+      },
+      {
+        "Title": "Archer 45",
+        "Target": [{
+          "Name": "Lesser Kalong",
+          "Quantity": 5,
+          "Zone": "South Shroud",
+          "Subzone": "Urth's Gift",
+          "Coordinates": {
+            "x": 29,
+            "y": 23
+          }
+        }],
+        "Experience": 19000
+      },
+      {
+        "Title": "Archer 46",
+        "Target": [{
+          "Name": "Giant Reader",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
+          "Coordinates": {
+            "x": 13,
+            "y": 28
+          }
+        },
+        {
+          "Name": "Hippogryph",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "North Silvertear",
+          "Coordinates": {
+            "x": 32,
+            "y": 8
+          }
+        },
+        {
+          "Name": "5th Cohort Secutor",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
+          "Coordinates": {
+            "x": 11,
+            "y": 13
+          }
+        },
+        {
+          "Name": "Tempered Gladiator",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zanr'ak",
+          "Coordinates": {
+            "x": 21,
+            "y": 19
+          }
+        }],
+        "Experience": 19500
+      },
+      {
+        "Title": "Archer 47",
+        "Target": [{
+          "Name": "Sylphlands Condor",
+          "Quantity": 5,
+          "Zone": "East Shroud",
+          "Subzone": "Sylphlands",
+          "Coordinates": {
+            "x": 26,
+            "y": 16
+          }
+        }],
+        "Experience": 20000
+      },
+      {
+        "Title": "Archer 48",
+        "Target": [{
+          "Name": "Milkroot Sapling",
+          "Quantity": 5,
+          "Zone": "East Shroud",
+          "Subzone": "Sylphlands",
+          "Coordinates": {
+            "x": 23,
+            "y": 13
+          }
+        }],
+        "Experience": 20500
+      },
+      {
+        "Title": "Archer 49",
+        "Target": [{
+          "Name": "Ahriman",
+          "Quantity": 5,
+          "Zone": "Northern Thanalan",
+          "Subzone": "Bluefog",
+          "Coordinates": {
+            "x": 24,
+            "y": 22
+          }
+        }],
+        "Experience": 21000
+      },
+      {
+        "Title": "Archer 50",
+        "Target": [{
+          "Name": "Shelfeye Reaver",
+          "Quantity": 5,
+          "Zone": "Western La Noscea",
+          "Subzone": "Sapsa Spawning Grounds",
+          "Coordinates": {
+            "x": 13,
+            "y": 16
+          }
+        }],
+        "Experience": 21500
+      }]
+    }
+  },
+  "Conjurer": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Gladiator": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Lancer": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Marauder": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Puglist": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Rogue": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Thaumaturge": {
+    "Rank 1": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 2": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 3": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 4": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    },
+    "Rank 5": {
+      "Completion Reward": 99,
+      "Tasks": [{
+        "Title": "Arcanist 41",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 42",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 43",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 44",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 45",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 46",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 47",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 48",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 49",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      },
+      {
+        "Title": "Arcanist 50",
+        "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        }],
+        "Experience": 99
+      }]
+    }
+  },
+  "Immortal Flames": {
+
+  },
+  "Maelstrom": {
+
+  },
+  "Order of the Twin Adder": {
+
+  }
+}
