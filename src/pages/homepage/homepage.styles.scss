@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+
+body {
+  font-family: 'Domine', sans-serif;
+}
+
+p, h2 {
+  margin: 5px;
+}
+
+.container {
+  margin: 0 auto;
+  margin-top: 50px;
+  max-width: 1200px;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+}
+
+.map-section {
+  width: 65%;
+  border: 1px solid red;
+}
+
+.rank-section {
+  width: 35%;
+  border: 1px solid green;
+}

@@ -1,0 +1,13 @@
+.target-item {
+  text-align: left;
+  margin: 20px;
+
+  &__title {
+    cursor: pointer;
+    -webkit-user-select: none;
+  }
+
+  &__name {
+    font-weight: 700;
+  }
+}

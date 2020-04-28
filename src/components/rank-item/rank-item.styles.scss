@@ -1,0 +1,10 @@
+.rank-item {
+  &__title {
+    cursor: pointer;
+    -webkit-user-select: none;
+  }
+}
+
+.is-nav-open {
+  transform: rotate(90deg);
+}

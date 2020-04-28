@@ -1,0 +1,19 @@
+.selector {
+  height: 50px;
+  font-size: 2rem;
+  text-align: center;
+
+  &-container {
+    align-items: center;
+    background-color: lightblue;
+    border: 2px solid blue;
+    display: flex;
+    justify-content: center;
+  }
+
+  &-item {
+    color: blue;
+  }
+}
+
+select { width: 400px; text-align-last:center; }

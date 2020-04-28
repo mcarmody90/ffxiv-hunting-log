@@ -1710,152 +1710,142 @@
       "Tasks": [{
         "Title": "Conjurer 01",
         "Target": [{
-          "Name": "name",
+          "Name": "Little Ladybug",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 75
       },
       {
         "Title": "Conjurer 02",
         "Target": [{
-          "Name": "name",
+          "Name": "Ground Squirrel",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 16
           }
         }],
-        "Experience": 99
+        "Experience": 180
       },
       {
         "Title": "Conjurer 03",
         "Target": [{
-          "Name": "name",
+          "Name": "Forest Funguar",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 18
           }
         }],
-        "Experience": 99
+        "Experience": 360
       },
       {
         "Title": "Conjurer 04",
         "Target": [{
-          "Name": "name",
+          "Name": "Miteling",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "North Shroud",
+          "Subzone": "Treespeak",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 410
       },
       {
         "Title": "Conjurer 05",
         "Target": [{
-          "Name": "name",
+          "Name": "Chigoe",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 530
       },
       {
         "Title": "Conjurer 06",
         "Target": [{
-          "Name": "name",
+          "Name": "Water Sprite",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 980
       },
       {
         "Title": "Conjurer 07",
         "Target": [{
-          "Name": "name",
+          "Name": "Midge Swarm",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "North Shroud",
+          "Subzone": "Peacegarden",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 1100
       },
       {
         "Title": "Conjurer 08",
         "Target": [{
-          "Name": "name",
+          "Name": "Microchu",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "North Shroud",
+          "Subzone": "Peacegarden",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 1300
       },
       {
         "Title": "Conjurer 09",
         "Target": [{
-          "Name": "name",
+          "Name": "Syrphid Swarm",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Greentear",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 1600
       },
       {
         "Title": "Conjurer 10",
         "Target": [{
-          "Name": "name",
+          "Name": "Northern Vulture",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 1700
       }]
     },
     "Rank 2": {
@@ -1863,152 +1853,152 @@
       "Tasks": [{
         "Title": "Conjurer 11",
         "Target": [{
-          "Name": "name",
+          "Name": "Tree Slug",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Bentbranch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 29
           }
         }],
-        "Experience": 99
+        "Experience": 2300
       },
       {
         "Title": "Conjurer 12",
         "Target": [{
-          "Name": "name",
+          "Name": "Arbor Buzzard",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Bentbranch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 29
+          }
+        },
+        {
+          "Name": "Goblin Hunter",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
+          "Coordinates": {
+            "x": 13,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 3200
       },
       {
         "Title": "Conjurer 13",
         "Target": [{
-          "Name": "name",
+          "Name": "Firefly",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Bentbranch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 4000
       },
       {
         "Title": "Conjurer 14",
         "Target": [{
-          "Name": "name",
+          "Name": "Mandragora",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 26
           }
         }],
-        "Experience": 99
+        "Experience": 4500
       },
       {
         "Title": "Conjurer 15",
         "Target": [{
-          "Name": "name",
+          "Name": "Boring Weevil",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 5000
       },
       {
         "Title": "Conjurer 16",
         "Target": [{
-          "Name": "name",
+          "Name": "Faerie Funguar",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 5300
       },
       {
         "Title": "Conjurer 17",
         "Target": [{
-          "Name": "name",
+          "Name": "Giant Gnat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 25
           }
         }],
-        "Experience": 99
+        "Experience": 5500
       },
       {
         "Title": "Conjurer 18",
         "Target": [{
-          "Name": "name",
+          "Name": "Wolf Poacher",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 30
           }
         }],
-        "Experience": 99
+        "Experience": 5700
       },
       {
         "Title": "Conjurer 19",
         "Target": [{
-          "Name": "name",
+          "Name": "Qiqirn Beater",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 5900
       },
       {
         "Title": "Conjurer 20",
         "Target": [{
-          "Name": "name",
+          "Name": "Black Bat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 6100
       }]
     },
     "Rank 3": {
@@ -2016,7 +2006,7 @@
       "Tasks": [{
         "Title": "Conjurer 21",
         "Target": [{
-          "Name": "name",
+          "Name": "Stoneshell",
           "Quantity": 3,
           "Zone": "zone",
           "Subzone": "subzone",
@@ -2030,6 +2020,26 @@
       {
         "Title": "Conjurer 22",
         "Target": [{
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
+          "Name": "name",
+          "Quantity": 3,
+          "Zone": "zone",
+          "Subzone": "subzone",
+          "Coordinates": {
+            "x": 99,
+            "y": 99
+          }
+        },
+        {
           "Name": "name",
           "Quantity": 3,
           "Zone": "zone",
