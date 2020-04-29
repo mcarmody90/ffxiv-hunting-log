@@ -35,7 +35,7 @@ export default () => {
       <div className="row">
         <div className="map-section">
           <h1>{zone}</h1>
-          <MapContainer />
+          <MapContainer zone={zone} />
         </div>
         <div className="rank-section">
           { job ? (

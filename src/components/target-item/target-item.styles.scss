@@ -1,17 +1,24 @@
 .target-item {
   text-align: left;
-  margin: 20px;
   border: 1px solid #000000;
   border-radius: 3px;
   cursor: pointer;
+  padding: 0px 10px;
+
+  p {
+    margin: 5px;
+  }
 
   &:hover {
     background-color: lightblue;
   }
 
+  &__container {
+    margin-bottom: 20px;
+  }
+
   &__title {
     cursor: pointer;
-    display: inline-block;
     -webkit-user-select: none;
     border: 1px solid green;
     padding: 5px;
