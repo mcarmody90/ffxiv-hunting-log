@@ -1,8 +1,12 @@
 .map {
-  height: 70vh;
-  width: 100%;
-  // background-image: url(../../fixtures/Eorzea.png);
+  height: 700px;
+  width: 700px;
+  margin: 0 auto;
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+
+  &__title {
+    text-align: center;
+  }
 }

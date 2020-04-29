@@ -1,11 +1,12 @@
 import React from 'react';
 import Map from '../map/map.component';
+import './map-container.styles.scss';
 
-export default ({ zone }) => {
+export default (props) => {
   return (
-    <div>
-      <h1>MAP CONTAINER</h1>
-      <Map zone={zone} />
+    <div className='map-container'>
+      {props.zone ? (<h1 className='map-container__title'>{props.zone.Zone} - {props.zone.Zone}</h1>) : null}
+      <Map zone={props.zone} />
     </div>
   )
 }

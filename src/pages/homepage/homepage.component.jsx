@@ -34,7 +34,7 @@ export default () => {
       <ClassSelector options={Object.keys(Data)} returnValue={returnValue} />
       <div className="row">
         <div className="map-section">
-          <h1>{zone}</h1>
+          {/* <h1>{zone}</h1> */}
           <MapContainer zone={zone} />
         </div>
         <div className="rank-section">

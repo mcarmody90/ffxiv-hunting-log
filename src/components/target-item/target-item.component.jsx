@@ -22,7 +22,7 @@ class TargetItem extends React.Component {
       <div className='target-item__container'>
         <h3 onClick={(this.handleShowChildren)} className='target-item__title'>{this.props.children.Title}</h3>
         {this.state.showChildren ? this.props.children.Target.map(target => (
-            <div onClick={() => this.props.getZone(target.Zone)} className='target-item' key={uuidv4()}>
+            <div onClick={() => this.props.getZone(target)} className='target-item' key={uuidv4()}>
               <p className='target-item__name'>{target.Name}</p>
               <p>Quantity: {target.Quantity}</p>
               <p>{target.Zone} - {target.Zone}</p>
