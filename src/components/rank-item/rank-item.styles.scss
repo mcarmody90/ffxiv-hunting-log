@@ -1,7 +1,13 @@
 .rank-item {
   &__title {
+    display: inline-block;
     cursor: pointer;
     -webkit-user-select: none;
+    opacity: .8;
+
+    &:hover {
+      opacity: 1;
+    }
   }
 }
 

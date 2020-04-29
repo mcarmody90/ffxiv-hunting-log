@@ -8,6 +8,8 @@ import './homepage.styles.scss';
 
 export default () => {
   const [job, setJob] = useState(null);
+  
+  const [zone, setZone] = useState(null);
 
   useEffect(() => console.log('mounted'), []);
 
@@ -23,15 +25,26 @@ export default () => {
     setJob(e.target.value);
   }
 
+  const getZone = (zone) => {
+    setZone(zone);
+  }
+
   return (
     <div className="container">
       <ClassSelector options={Object.keys(Data)} returnValue={returnValue} />
       <div className="row">
         <div className="map-section">
+          <h1>{zone}</h1>
           <MapContainer />
         </div>
         <div className="rank-section">
-          { job ? (<RankContainer rankNames={Object.keys(Data[job])} rankData={Data[job]} />) : null }
+          { job ? (
+            <RankContainer
+              rankNames={Object.keys(Data[job])}
+              getZone={getZone}
+              rankData={Data[job]}
+            />
+          ) : null }
         </div>
       </div>
     </div>
