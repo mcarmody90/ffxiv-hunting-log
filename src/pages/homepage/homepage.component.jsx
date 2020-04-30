@@ -43,6 +43,7 @@ export default () => {
               rankNames={Object.keys(Data[job])}
               getZone={getZone}
               rankData={Data[job]}
+              job={job}
             />
           ) : null }
         </div>
