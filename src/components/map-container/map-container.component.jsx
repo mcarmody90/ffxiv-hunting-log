@@ -1,12 +1,23 @@
-import React from 'react';
+import React, { Fragment } from 'react';
+import { connect } from 'react-redux';
 import Map from '../map/map.component';
 import './map-container.styles.scss';
 
-export default (props) => {
+const MapContainer = ({ currentTarget }) => {
   return (
     <div className='map-container'>
-      {props.zone ? (<h1 className='map-container__title'>{props.zone.Zone} - {props.zone.Zone}</h1>) : null}
-      <Map zone={props.zone} />
+      {currentTarget ? (
+        <Fragment>
+          <h1 className='map-container__title'>{currentTarget.Zone} - {currentTarget.Zone}</h1>
+          <Map zone={currentTarget} />
+        </Fragment>
+      ) : null}
     </div>
   )
-}
+};
+
+const mapStateToProps = ({ target: { currentTarget } }) => ({
+  currentTarget
+})
+
+export default connect(mapStateToProps)(MapContainer);
