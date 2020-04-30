@@ -1,8 +1,10 @@
 .rank-item {
   &__title {
+    display: block;
     border: 2px solid purple;
     cursor: pointer;
     -webkit-user-select: none;
+    margin: 10px;
   }
 }
 

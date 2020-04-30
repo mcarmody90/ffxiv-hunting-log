@@ -10,3 +10,14 @@ function App() {
 }
 
 export default App;
+
+/*
+
+#TODO:
+  - Find / Create API
+  - Replace component state with Redux
+  - Add Starting Zone Selection
+  - Add Icon to target-item
+  - Condense rank items?
+  
+*/

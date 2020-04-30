@@ -29,6 +29,6 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
 
 const mapDispatchToProps = dispatch => ({
   setCurrentTarget: target => dispatch(setCurrentTarget(target))
-})
+});
 
 export default connect(null, mapDispatchToProps)(TargetItem);

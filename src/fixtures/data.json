@@ -4782,11 +4782,11 @@
       }]
     }
   },
-  "Puglist": {
+  "Pugilist": {
     "Rank 1": {
       "Completion Reward": 2500,
       "Tasks": [{
-        "Title": "Puglist 01",
+        "Title": "Pugilist 01",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4800,7 +4800,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 02",
+        "Title": "Pugilist 02",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4814,7 +4814,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 03",
+        "Title": "Pugilist 03",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4828,7 +4828,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 04",
+        "Title": "Pugilist 04",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4842,7 +4842,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 05",
+        "Title": "Pugilist 05",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4856,7 +4856,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 06",
+        "Title": "Pugilist 06",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4870,7 +4870,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 07",
+        "Title": "Pugilist 07",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4884,7 +4884,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 08",
+        "Title": "Pugilist 08",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4908,7 +4908,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 09",
+        "Title": "Pugilist 09",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4922,7 +4922,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 10",
+        "Title": "Pugilist 10",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4939,7 +4939,7 @@
     "Rank 2": {
       "Completion Reward": 10000,
       "Tasks": [{
-        "Title": "Puglist 11",
+        "Title": "Pugilist 11",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4953,7 +4953,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 12",
+        "Title": "Pugilist 12",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4967,7 +4967,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 13",
+        "Title": "Pugilist 13",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4981,7 +4981,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 14",
+        "Title": "Pugilist 14",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -4995,7 +4995,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 15",
+        "Title": "Pugilist 15",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5009,7 +5009,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 16",
+        "Title": "Pugilist 16",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5023,7 +5023,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 17",
+        "Title": "Pugilist 17",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5037,7 +5037,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 18",
+        "Title": "Pugilist 18",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5061,7 +5061,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 19",
+        "Title": "Pugilist 19",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5075,7 +5075,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 20",
+        "Title": "Pugilist 20",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5092,7 +5092,7 @@
     "Rank 3": {
       "Completion Reward": 20000,
       "Tasks": [{
-        "Title": "Puglist 21",
+        "Title": "Pugilist 21",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5106,7 +5106,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 22",
+        "Title": "Pugilist 22",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5120,7 +5120,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 23",
+        "Title": "Pugilist 23",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5134,7 +5134,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 24",
+        "Title": "Pugilist 24",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5148,7 +5148,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 25",
+        "Title": "Pugilist 25",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5162,7 +5162,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 26",
+        "Title": "Pugilist 26",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5176,7 +5176,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 27",
+        "Title": "Pugilist 27",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5190,7 +5190,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 28",
+        "Title": "Pugilist 28",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5214,7 +5214,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 29",
+        "Title": "Pugilist 29",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5228,7 +5228,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 30",
+        "Title": "Pugilist 30",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5245,7 +5245,7 @@
     "Rank 4": {
       "Completion Reward": 30000,
       "Tasks": [{
-        "Title": "Puglist 31",
+        "Title": "Pugilist 31",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5259,7 +5259,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 32",
+        "Title": "Pugilist 32",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5273,7 +5273,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 33",
+        "Title": "Pugilist 33",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5287,7 +5287,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 34",
+        "Title": "Pugilist 34",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5301,7 +5301,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 35",
+        "Title": "Pugilist 35",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5315,7 +5315,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 36",
+        "Title": "Pugilist 36",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5329,7 +5329,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 37",
+        "Title": "Pugilist 37",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5343,7 +5343,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 38",
+        "Title": "Pugilist 38",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5367,7 +5367,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 39",
+        "Title": "Pugilist 39",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5381,7 +5381,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 40",
+        "Title": "Pugilist 40",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5398,7 +5398,7 @@
     "Rank 5": {
       "Completion Reward": 40000,
       "Tasks": [{
-        "Title": "Puglist 41",
+        "Title": "Pugilist 41",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5412,7 +5412,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 42",
+        "Title": "Pugilist 42",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5426,7 +5426,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 43",
+        "Title": "Pugilist 43",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5440,7 +5440,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 44",
+        "Title": "Pugilist 44",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5454,7 +5454,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 45",
+        "Title": "Pugilist 45",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5468,7 +5468,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 46",
+        "Title": "Pugilist 46",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5482,7 +5482,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 47",
+        "Title": "Pugilist 47",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5496,7 +5496,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 48",
+        "Title": "Pugilist 48",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5520,7 +5520,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 49",
+        "Title": "Pugilist 49",
         "Target": [{
           "Name": "name",
           "Quantity": 3,
@@ -5534,7 +5534,7 @@
         "Experience": 99
       },
       {
-        "Title": "Puglist 50",
+        "Title": "Pugilist 50",
         "Target": [{
           "Name": "name",
           "Quantity": 3,

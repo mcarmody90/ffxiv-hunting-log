@@ -11,10 +11,10 @@ export default ({children, data, getZone}) => {
   }
   return (
     <div className='rank-item'>
-      <h1 onClick={handleShowChildren} className='rank-item__title'>
+      <span onClick={handleShowChildren} className='rank-item__title'>
         <span className='rank__symbol'>{ showChildren ? <Fragment>&#11167;</Fragment> : <Fragment>&#11166;</Fragment> }</span>
         {' '}{children}
-      </h1>
+      </span>
       { showChildren ? <TargetContainer key={uuidv4()} tasks={data[children].Tasks} getZone={getZone} /> : null }
     </div>
   )

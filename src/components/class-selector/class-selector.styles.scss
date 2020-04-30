@@ -2,6 +2,12 @@
   height: 50px;
   font-size: 2rem;
   text-align: center;
+  background-color: lightblue;
+  border: none;
+
+  &:focus {
+    outline: 0;
+  }
 
   &-container {
     align-items: center;
@@ -9,11 +15,22 @@
     border: 2px solid blue;
     display: flex;
     justify-content: center;
+    text-align: center;
   }
 
   &-item {
     color: blue;
+    text-align: center;
   }
 }
 
-select { width: 400px; text-align-last:center; }
+select {
+  width: 400px;
+  text-align-last:center;
+}
+
+@media (max-width: 500px) {
+  select {
+    width: 100%;
+  }
+}

@@ -8,7 +8,7 @@ const MapContainer = ({ currentTarget }) => {
     <div className='map-container'>
       {currentTarget ? (
         <Fragment>
-          <h1 className='map-container__title'>{currentTarget.Zone} - {currentTarget.Zone}</h1>
+          <h1 className='map-container__title'>{currentTarget.Zone} - {currentTarget.Subzone}</h1>
           <Map zone={currentTarget} />
         </Fragment>
       ) : null}
