@@ -7,7 +7,6 @@
     padding-top: 20px;
     font-family: 'Fondamento', sans-serif;
     color: #9F2637;
-    background-color: rgba(0,0,0,.9);
     // background-image: linear-gradient(to top right, black 0%, white 100%);
     text-transform: uppercase;
     position: absolute;
@@ -51,7 +50,6 @@
 
   &__map-section {
     width: 700px;
-    border: 1px solid red;
   }
 
   &__no-selection {
@@ -63,7 +61,6 @@
 
   &__rank-section {
     width: 900px;
-    border: 1px solid green;
   }
 }
 

@@ -1,7 +1,9 @@
 .map-container {
   overflow: hidden;
+  text-align: center;
 
   &__title {
-    text-align: center;
+    font-size: 2rem;
+    font-weight: 700;
   }
 }
