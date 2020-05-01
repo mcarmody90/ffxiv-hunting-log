@@ -7089,152 +7089,142 @@
       "Tasks": [{
         "Title": "Immortal Flames 01",
         "Target": [{
-          "Name": "name",
+          "Name": "Amalj'aa Hunter",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Sandgate",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 240
       },
       {
         "Title": "Immortal Flames 02",
         "Target": [{
-          "Name": "name",
+          "Name": "Doctore",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Halitali (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 30
           }
         }],
-        "Experience": 99
+        "Experience": 266
       },
       {
         "Title": "Immortal Flames 03",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Firemane",
+          "Quantity": 1,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Halitali (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 30
           }
         }],
-        "Experience": 99
+        "Experience": 287
       },
       {
         "Title": "Immortal Flames 04",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Thunderclap Guivre",
+          "Quantity": 1,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Halitali (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 30
           }
         }],
-        "Experience": 99
+        "Experience": 311
       },
       {
         "Title": "Immortal Flames 05",
         "Target": [{
-          "Name": "name",
+          "Name": "Sylvan Sough",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 345
       },
       {
         "Title": "Immortal Flames 06",
         "Target": [{
-          "Name": "name",
+          "Name": "Kobold Footman",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 11,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 357
       },
       {
         "Title": "Immortal Flames 07",
         "Target": [{
-          "Name": "name",
+          "Name": "Kobold Pickman",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 11,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 388
       },
       {
         "Title": "Immortal Flames 08",
         "Target": [{
-          "Name": "name",
+          "Name": "Amalj'aa Seer",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "The Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 15
           }
         }],
-        "Experience": 99
+        "Experience": 431
       },
       {
         "Title": "Immortal Flames 09",
         "Target": [{
-          "Name": "name",
+          "Name": "Ixali Lightwing",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 441
       },
       {
         "Title": "Immortal Flames 10",
         "Target": [{
-          "Name": "name",
+          "Name": "Ixali Boundwing",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 478
       }]
     },
     "Rank 2": {
@@ -7242,152 +7232,142 @@
       "Tasks": [{
         "Title": "Immortal Flames 11",
         "Target": [{
-          "Name": "name",
+          "Name": "Amalj'aa Halberdier",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 34
           }
         }],
-        "Experience": 99
+        "Experience": 531
       },
       {
         "Title": "Immortal Flames 12",
         "Target": [{
-          "Name": "name",
+          "Name": "Kobold Missionary",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 25
           }
         }],
-        "Experience": 99
+        "Experience": 590
       },
       {
         "Title": "Immortal Flames 13",
         "Target": [{
-          "Name": "name",
+          "Name": "Kobold Sidesman",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Zelma's Run",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 609
       },
       {
         "Title": "Immortal Flames 14",
         "Target": [{
-          "Name": "name",
+          "Name": "Sand Bat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Cutter's Cry (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 629
       },
       {
         "Title": "Immortal Flames 15",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Sabotender Desertor",
+          "Quantity": 2,
+          "Zone": "Central Thanalan",
+          "Subzone": "Cutter's Cry (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 655
       },
       {
         "Title": "Immortal Flames 16",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Myrmidon Princess",
+          "Quantity": 1,
+          "Zone": "Central Thanalan",
+          "Subzone": "Cutter's Cry (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 632
       },
       {
         "Title": "Immortal Flames 17",
         "Target": [{
-          "Name": "name",
+          "Name": "Kobold Quarrymman",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Outer La Noscea",
+          "Subzone": "Iron Lake",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 653
       },
       {
         "Title": "Immortal Flames 18",
         "Target": [{
-          "Name": "name",
+          "Name": "Sylvan Screech",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 674
       },
       {
         "Title": "Immortal Flames 19",
         "Target": [{
-          "Name": "name",
+          "Name": "Shelfspine Sahagin",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Halfstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 702
       },
       {
         "Title": "Immortal Flames 20",
         "Target": [{
-          "Name": "name",
+          "Name": "Amalj'aa Archer",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zanr'ak",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 749
       }]
     },
     "Rank 3": {
@@ -7395,152 +7375,142 @@
       "Tasks": [{
         "Title": "Immortal Flames 21",
         "Target": [{
-          "Name": "name",
+          "Name": "Ixali Windtalon",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "North Shroud",
+          "Subzone": "Proud Creek",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 20
           }
         }],
-        "Experience": 99
+        "Experience": 774
       },
       {
         "Title": "Immortal Flames 22",
         "Target": [{
-          "Name": "name",
+          "Name": "Sylpheed Sigh",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Sylphlands",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 799
       },
       {
         "Title": "Immortal Flames 23",
         "Target": [{
-          "Name": "name",
+          "Name": "U'Ghamaro Priest",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Outer La Noscea",
+          "Subzone": "U'Ghamaro Mines",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 8
           }
         }],
-        "Experience": 99
+        "Experience": 832
       },
       {
         "Title": "Immortal Flames 24",
         "Target": [{
-          "Name": "name",
+          "Name": "Sapsa Shelfspine",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Sapsa Spawning Grounds",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 15
           }
         }],
-        "Experience": 99
+        "Experience": 884
       },
       {
         "Title": "Immortal Flames 25",
         "Target": [{
-          "Name": "name",
+          "Name": "Zahar'ak Thaumaturge",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zahar'ak",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 18
           }
         }],
-        "Experience": 99
+        "Experience": 913
       },
       {
         "Title": "Immortal Flames 26",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Natalan Windtalon",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Natalan",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 943
       },
       {
         "Title": "Immortal Flames 27",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Natalan Bloodwing",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Natalan",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 982
       },
       {
         "Title": "Immortal Flames 28",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Tonberry",
+          "Quantity": 8,
+          "Zone": "Upper La Noscea",
+          "Subzone": "The Wanderer's Palace (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 1506
       },
       {
         "Title": "Immortal Flames 29",
         "Target": [{
-          "Name": "name",
+          "Name": "Corrupted Nymian",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "The Wanderer's Palace (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 1555
       },
       {
         "Title": "Immortal Flames 30",
         "Target": [{
-          "Name": "name",
+          "Name": "Soldier of Nym",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "The Wanderer's Palace (Dungeon)",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 1619
       }]
     }
   },
