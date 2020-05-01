@@ -300,7 +300,7 @@
           "Subzone": "Poor Maid's Mill",
           "Coordinates": {
             "x": 12,
-            "y": 23
+            "y": 26
           }
         }],
         "Experience": 6100
@@ -316,8 +316,8 @@
           "Zone": "East Shroud",
           "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 23,
-            "y": 29
+            "x": 22,
+            "y": 30
           }
         }],
         "Experience": 6300
@@ -358,8 +358,8 @@
           "Zone": "Upper La Noscea",
           "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 9,
-            "y": 20
+            "x": 8,
+            "y": 21
           }
         }],
         "Experience": 6900
@@ -386,8 +386,8 @@
           "Zone": "North Shroud",
           "Subzone": "Alder Springs",
           "Coordinates": {
-            "x": 17,
-            "y": 26
+            "x": 21,
+            "y": 31
           }
         },
         {
@@ -410,8 +410,8 @@
           "Zone": "Eastern Thanalan",
           "Subzone": "Wellwick Wood",
           "Coordinates": {
-            "x": 25,
-            "y": 18
+            "x": 26,
+            "y": 17
           }
         }],
         "Experience": 8600
@@ -424,8 +424,8 @@
           "Zone": "North Shroud",
           "Subzone": "Alder Springs",
           "Coordinates": {
-            "x": 19,
-            "y": 28
+            "x": 17,
+            "y": 29
           }
         },
         {
@@ -434,7 +434,7 @@
           "Zone": "Southern Thanalan",
           "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 22,
+            "x": 24,
             "y": 11
           }
         }],
@@ -493,8 +493,8 @@
           "Zone": "Eastern La Noscea",
           "Subzone": "Raincatcher Gully",
           "Coordinates": {
-            "x": 16,
-            "y": 25
+            "x": 23,
+            "y": 20
           }
         }],
         "Experience": 12000
@@ -522,7 +522,7 @@
           "Subzone": "Sagolii Desert",
           "Coordinates": {
             "x": 25,
-            "y": 38
+            "y": 39
           }
         }],
         "Experience": 13000
@@ -549,8 +549,8 @@
           "Zone": "Outer La Noscea",
           "Subzone": "The Long Climb",
           "Coordinates": {
-            "x": 14,
-            "y": 14
+            "x": 15,
+            "y": 15
           }
         },
         {
@@ -625,7 +625,7 @@
           "Zone": "East Shroud",
           "Subzone": "Larkscall",
           "Coordinates": {
-            "x": 25,
+            "x": 26,
             "y": 24
           }
         }],
@@ -642,7 +642,7 @@
           "Zone": "Eastern Thanalan",
           "Subzone": "The Burning Wall",
           "Coordinates": {
-            "x": 30,
+            "x": 29,
             "y": 25
           }
         }],
@@ -670,7 +670,7 @@
           "Zone": "East Shroud",
           "Subzone": "Larkscall",
           "Coordinates": {
-            "x": 29,
+            "x": 28,
             "y": 20
           }
         }],
@@ -684,18 +684,18 @@
           "Zone": "Mor Dhona",
           "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 19,
-            "y": 9
+            "x": 18,
+            "y": 8
           }
         },
         {
           "Name": "Mudpuppy",
           "Quantity": 2,
-          "Zone": "Coerthas Central Highlands",
-          "Subzone": "Boulder Downs",
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 18,
-            "y": 30
+            "x": 13,
+            "y": 11
           }
         }],
         "Experience": 18500
@@ -732,8 +732,8 @@
           "Zone": "Mor Dhona",
           "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 11,
-            "y": 11
+            "x": 10,
+            "y": 12
           }
         }],
         "Experience": 19500
@@ -760,7 +760,7 @@
           "Zone": "Coerthas Central Highlands",
           "Subzone": "Natalan",
           "Coordinates": {
-            "x": 31,
+            "x": 32,
             "y": 18
           }
         },
@@ -770,7 +770,7 @@
           "Zone": "Western La Noscea",
           "Subzone": "Sapsa Spawning Grounds",
           "Coordinates": {
-            "x": 12,
+            "x": 13,
             "y": 15
           }
         }],
@@ -784,7 +784,7 @@
           "Zone": "Southern Thanalan",
           "Subzone": "Zahar'ak",
           "Coordinates": {
-            "x": 13,
+            "x": 32,
             "y": 19
           }
         }],
@@ -798,8 +798,8 @@
           "Zone": "Western Thanalan",
           "Subzone": "Cape Westwind",
           "Coordinates": {
-            "x": 12,
-            "y": 7
+            "x": 10,
+            "y": 5
           }
         }],
         "Experience": 21500
@@ -1855,11 +1855,11 @@
         "Target": [{
           "Name": "Tree Slug",
           "Quantity": 3,
-          "Zone": "Central Shroud",
-          "Subzone": "Bentbranch",
+          "Zone": "East Shroud",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
-            "x": 25,
-            "y": 29
+            "x": 12,
+            "y": 26
           }
         }],
         "Experience": 2300
@@ -1880,7 +1880,7 @@
           "Name": "Goblin Hunter",
           "Quantity": 2,
           "Zone": "East Shroud",
-          "Subzone": "Nine Ivies",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
             "x": 13,
             "y": 27
@@ -1908,7 +1908,7 @@
           "Name": "Mandragora",
           "Quantity": 3,
           "Zone": "East Shroud",
-          "Subzone": "Nine Ivies",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
             "x": 14,
             "y": 26
@@ -1924,7 +1924,7 @@
           "Zone": "East Shroud",
           "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 20,
+            "x": 15,
             "y": 28
           }
         }],
@@ -1938,7 +1938,7 @@
           "Zone": "East Shroud",
           "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 19,
+            "x": 18,
             "y": 28
           }
         }],
@@ -1953,7 +1953,7 @@
           "Subzone": "Nine Ivies",
           "Coordinates": {
             "x": 19,
-            "y": 25
+            "y": 27
           }
         }],
         "Experience": 5500
@@ -1994,8 +1994,8 @@
           "Zone": "East Shroud",
           "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 16,
-            "y": 21
+            "x": 18,
+            "y": 24
           }
         }],
         "Experience": 6100
@@ -2008,170 +2008,160 @@
         "Target": [{
           "Name": "Stoneshell",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 6300
       },
       {
         "Title": "Conjurer 22",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Laughing Toad",
+          "Quantity": 2,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 7
           }
         },
         {
-          "Name": "name",
+          "Name": "Diseased Treant",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 23
           }
         },
         {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Lead Coblyn",
+          "Quantity": 2,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 10
           }
         }],
-        "Experience": 99
+        "Experience": 6500
       },
       {
         "Title": "Conjurer 23",
         "Target": [{
-          "Name": "name",
+          "Name": "Bark Eft",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 6700
       },
       {
         "Title": "Conjurer 24",
         "Target": [{
-          "Name": "name",
+          "Name": "Glowfly",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 20
           }
         }],
-        "Experience": 99
+        "Experience": 6900
       },
       {
         "Title": "Conjurer 25",
         "Target": [{
-          "Name": "name",
+          "Name": "Antelope Stag",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 7100
       },
       {
         "Title": "Conjurer 26",
         "Target": [{
-          "Name": "name",
+          "Name": "Sabotender",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 7600
       },
       {
         "Title": "Conjurer 27",
         "Target": [{
-          "Name": "name",
+          "Name": "Qiqirn Roerunner",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 8600
       },
       {
         "Title": "Conjurer 28",
         "Target": [{
-          "Name": "name",
+          "Name": "Goblin Thug",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 20
           }
         }],
-        "Experience": 99
+        "Experience": 9400
       },
       {
         "Title": "Conjurer 29",
         "Target": [{
-          "Name": "name",
+          "Name": "Toadstool",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 9700
       },
       {
         "Title": "Conjurer 30",
         "Target": [{
-          "Name": "name",
+          "Name": "Apkallu",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 35
           }
         }],
-        "Experience": 99
+        "Experience": 10000
       }]
     },
     "Rank 4": {
