@@ -40,3 +40,28 @@ body {
     width: 100%;
   }
 }
+
+.logo {
+  width: 400px;
+  animation: loading 10s linear infinite;
+  animation-delay: 5s;
+  
+  @keyframes loading {
+    0% {
+      transform: rotate(0deg);
+    }
+    50% {
+      transform: rotate(360deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+}
+
+.no-selection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}

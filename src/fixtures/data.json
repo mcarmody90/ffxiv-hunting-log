@@ -814,11 +814,11 @@
         "Target": [{
           "Name": "Little Ladybug",
           "Quantity": 4,
-          "Zone": "North Shroud",
-          "Subzone": "Treespeak",
+          "Zone": "Central Shroud",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 25,
-            "y": 27
+            "x": 23,
+            "y": 16
           }
         }],
         "Experience": 75
@@ -831,8 +831,8 @@
           "Zone": "Central Shroud",
           "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 22,
-            "y": 17
+            "x": 23,
+            "y": 16
           }
         }],
         "Experience": 180
@@ -860,7 +860,7 @@
           "Subzone": "Treespeak",
           "Coordinates": {
             "x": 25,
-            "y": 27
+            "y": 28
           }
         }],
         "Experience": 410
@@ -874,7 +874,7 @@
           "Subzone": "Peacegarden",
           "Coordinates": {
             "x": 27,
-            "y": 21
+            "y": 23
           }
         }],
         "Experience": 530
@@ -887,8 +887,8 @@
           "Zone": "Central Shroud",
           "Subzone": "Jadeite Thick",
           "Coordinates": {
-            "x": 25,
-            "y": 21
+            "x": 26,
+            "y": 18
           }
         }],
         "Experience": 980
@@ -915,7 +915,7 @@
           "Zone": "Central Shroud",
           "Subzone": "Greentear",
           "Coordinates": {
-            "x": 30,
+            "x": 31,
             "y": 20
           }
         }],
@@ -944,7 +944,7 @@
           "Subzone": "Bentbranch",
           "Coordinates": {
             "x": 22,
-            "y": 26
+            "y": 24
           }
         }],
         "Experience": 1700
@@ -1018,7 +1018,7 @@
           "Zone": "East Shroud",
           "Subzone": "subzone",
           "Coordinates": {
-            "x": 14,
+            "x": 13,
             "y": 25
           }
         }
@@ -1117,8 +1117,8 @@
           "Zone": "East Shroud",
           "Subzone": "subzone",
           "Coordinates": {
-            "x": 16,
-            "y": 23
+            "x": 18,
+            "y": 24
           }
         }],
         "Experience": 6100
