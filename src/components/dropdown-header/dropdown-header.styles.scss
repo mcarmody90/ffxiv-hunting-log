@@ -1,0 +1,16 @@
+.dropdown-header {
+  text-align: center;
+  -webkit-user-select: none;
+
+  &__title {
+    display: inline-block;
+    text-transform: uppercase;
+    color: #9F2637;
+    cursor: pointer;
+    width: 500px;
+
+    &:hover {
+      color: lighten(#9F2637, 10%);
+    }
+  }
+}

@@ -1,67 +1,89 @@
-@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fondamento&display=swap');
+
+.homepage {
+
+  &__container {
+    margin: 0 auto;
+    padding-top: 20px;
+    font-family: 'Fondamento', sans-serif;
+    color: #9F2637;
+    background-color: rgba(0,0,0,.9);
+    // background-image: linear-gradient(to top right, black 0%, white 100%);
+    text-transform: uppercase;
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 0;
+  }
+
+  &__dropdown-section {
+    display: flex;
+    justify-content: center;
+  
+    &-text {
+      display: inline-block;
+    }
+  }
+
+  &__logo {
+    width: 400px;
+    animation: loading 60s linear infinite;
+    animation-delay: 5s;
+    
+    @keyframes loading {
+      0% {
+        transform: rotate(0deg);
+      }
+      5% {
+        transform: rotate(360deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+    }
+  }
+
+  &__row {
+    display: flex;
+    justify-content: center;
+  }
+
+  &__map-section {
+    width: 700px;
+    border: 1px solid red;
+  }
+
+  &__no-selection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+  }
+
+  &__rank-section {
+    width: 900px;
+    border: 1px solid green;
+  }
+}
 
 body {
-  font-family: sans-serif;
-}
-
-.container {
-  margin: 0 auto;
-  margin-top: 50px;
-  max-width: 1600px;
-}
-
-.row {
-  display: flex;
-  justify-content: center;
-}
-
-.map-section {
-  width: 700px;
-  border: 1px solid red;
-}
-
-.rank-section {
-  width: 900px;
-  border: 1px solid green;
 }
 
 @media (max-width: 800px) {
-  .row {
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .map-section {
-    width: 100%;
-    height: auto;
-  }
-
-  .rank-section {
-    width: 100%;
-  }
-}
-
-.logo {
-  width: 400px;
-  animation: loading 10s linear infinite;
-  animation-delay: 5s;
-  
-  @keyframes loading {
-    0% {
-      transform: rotate(0deg);
+  .homepage {
+    &__row {
+      flex-direction: column;
+      align-items: center;
     }
-    50% {
-      transform: rotate(360deg);
+
+    &__map-section {
+      width: 100%;
+      height: auto;
     }
-    100% {
-      transform: rotate(360deg);
+
+    &__rank-section {
+      width: 100%;
     }
   }
-}
-
-.no-selection {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 80vh;
 }
