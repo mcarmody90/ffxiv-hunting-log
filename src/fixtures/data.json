@@ -4241,152 +4241,142 @@
       "Tasks": [{
         "Title": "Marauder 01",
         "Target": [{
-          "Name": "name",
+          "Name": "Little Ladybug",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr's Drift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 75
       },
       {
         "Title": "Marauder 02",
         "Target": [{
-          "Name": "name",
+          "Name": "Wharf Rat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr's Drift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 180
       },
       {
         "Title": "Marauder 03",
         "Target": [{
-          "Name": "name",
+          "Name": "Aurelia",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Moraby Bay",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 26
           }
         }],
-        "Experience": 99
+        "Experience": 360
       },
       {
         "Title": "Marauder 04",
         "Target": [{
-          "Name": "name",
+          "Name": "Bee Cloud",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 18
           }
         }],
-        "Experience": 99
+        "Experience": 410
       },
       {
         "Title": "Marauder 05",
         "Target": [{
-          "Name": "name",
+          "Name": "Wild Dodo",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 530
       },
       {
         "Title": "Marauder 06",
         "Target": [{
-          "Name": "name",
+          "Name": "Tiny Mandragora",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 18
           }
         }],
-        "Experience": 99
+        "Experience": 980
       },
       {
         "Title": "Marauder 07",
         "Target": [{
-          "Name": "name",
+          "Name": "Bogy",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 1100
       },
       {
         "Title": "Marauder 08",
         "Target": [{
-          "Name": "name",
+          "Name": "Wounded Aurochs",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 1300
       },
       {
         "Title": "Marauder 09",
         "Target": [{
-          "Name": "name",
+          "Name": "Grounded Raider",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 1600
       },
       {
         "Title": "Marauder 10",
         "Target": [{
-          "Name": "name",
+          "Name": "Megalocrab",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Three-malm Bend",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 13
           }
         }],
-        "Experience": 99
+        "Experience": 1700
       }]
     },
     "Rank 2": {
@@ -4394,152 +4384,162 @@
       "Tasks": [{
         "Title": "Marauder 11",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Firefly",
+          "Quantity": 4,
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 37
           }
         }],
-        "Experience": 99
+        "Experience": 2300
       },
       {
         "Title": "Marauder 12",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Mossless Goobbue",
+          "Quantity": 4,
+          "Zone": "Lower La Noscea",
+          "Subzone": "Zephyr's Drift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 3200
       },
       {
         "Title": "Marauder 13",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Fat Dodo",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 4000
       },
       {
         "Title": "Marauder 14",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Moraby Mole",
+          "Quantity": 4,
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 34
           }
         }],
-        "Experience": 99
+        "Experience": 4500
       },
       {
         "Title": "Marauder 15",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Qiqirn Eggdigger",
+          "Quantity": 4,
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 35
           }
         }],
-        "Experience": 99
+        "Experience": 5000
       },
       {
         "Title": "Marauder 16",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Rhotano Buccaneer",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 33,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 5300
       },
       {
         "Title": "Marauder 17",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Dusk Bat",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 24
+          }
+        },
+        {
+          "Name": "Puk Hatchling",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 28,
+            "y": 24
+          }
+        },
+        {
+          "Name": "Hedgemole",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
+          "Coordinates": {
+            "x": 26,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 5500
       },
       {
         "Title": "Marauder 18",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Rothlyt Pelican",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 5700
       },
       {
         "Title": "Marauder 19",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Killer Mantis",
+          "Quantity": 4,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 22
           }
         }],
-        "Experience": 99
+        "Experience": 5900
       },
       {
         "Title": "Marauder 20",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Wild Wolf",
+          "Quantity": 4,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 26
           }
         }],
-        "Experience": 99
+        "Experience": 6100
       }]
     },
     "Rank 3": {
@@ -4547,152 +4547,162 @@
       "Tasks": [{
         "Title": "Marauder 21",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Stoneshell",
+          "Quantity": 4,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 6300
       },
       {
         "Title": "Marauder 22",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Diseased Treant",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 6500
       },
       {
         "Title": "Marauder 23",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Yarzon Scavenger",
+          "Quantity": 4,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 7
           }
         }],
-        "Experience": 99
+        "Experience": 6700
       },
       {
         "Title": "Marauder 24",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Redbelly Larcener",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 19
           }
         }],
-        "Experience": 99
+        "Experience": 6900
       },
       {
         "Title": "Marauder 25",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Shroud Hare",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 27
           }
         }],
-        "Experience": 99
+        "Experience": 7100
       },
       {
         "Title": "Marauder 26",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Sabotender",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 7600
       },
       {
         "Title": "Marauder 27",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Balloon",
+          "Quantity": 4,
+          "Zone": "North Shroud",
+          "Subzone": "Alder Springs",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 26
+          }
+        },
+        {
+          "Name": "Phurble",
+          "Quantity": 3,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
+          "Coordinates": {
+            "x": 22,
+            "y": 21
+          }
+        },
+        {
+          "Name": "Sandskin Peiste",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
+          "Coordinates": {
+            "x": 19,
+            "y": 10
           }
         }],
-        "Experience": 99
+        "Experience": 8600
       },
       {
         "Title": "Marauder 28",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Axe Beak",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 9400
       },
       {
         "Title": "Marauder 29",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Toadstool",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 9700
       },
       {
         "Title": "Marauder 30",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Floating Eye",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 10,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 10000
       }]
     },
     "Rank 4": {
@@ -4700,152 +4710,183 @@
       "Tasks": [{
         "Title": "Marauder 31",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Stroper",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 11000
       },
       {
         "Title": "Marauder 32",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Adamantoise",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Lower Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 29
+          }
+        },
+        {
+          "Name": "Smoke Bomb",
+          "Quantity": 3,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 19,
+            "y": 34
+          }
+        },
+        {
+          "Name": "Grass Raptor",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 15,
+            "y": 26
           }
         }],
-        "Experience": 99
+        "Experience": 12000
       },
       {
         "Title": "Marauder 33",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Snipper",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 35
           }
         }],
-        "Experience": 99
+        "Experience": 12500
       },
       {
         "Title": "Marauder 34",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Bloodshore Bell",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 26
           }
         }],
-        "Experience": 99
+        "Experience": 13000
       },
       {
         "Title": "Marauder 35",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Jungle Coeurl",
+          "Quantity": 4,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 28
           }
         }],
-        "Experience": 99
+        "Experience": 13500
       },
       {
         "Title": "Marauder 36",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Snow Wolf Pup",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 29
           }
         }],
-        "Experience": 99
+        "Experience": 14000
       },
       {
         "Title": "Marauder 37",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Redhorn Ogre",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 13
           }
-        }],
-        "Experience": 99
+        },
+        {
+          "Name": "Ornery Karakul",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 25,
+            "y": 19
+          }
+        },
+        {
+          "Name": "Highland Goobbue",
+          "Quantity": 3,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 25,
+            "y": 19
+          }
+        }
+      ],
+        "Experience": 14500
       },
       {
         "Title": "Marauder 38",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Downy Aevis",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 10
           }
         }],
-        "Experience": 99
+        "Experience": 15000
       },
       {
         "Title": "Marauder 39",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Snowstorm Goobbue",
+          "Quantity": 4,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 16000
       },
       {
         "Title": "Marauder 40",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Grenade",
+          "Quantity": 4,
+          "Zone": "Outer La Noscea",
+          "Subzone": "Iron Lake",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 13
           }
         }],
-        "Experience": 99
+        "Experience": 16500
       }]
     },
     "Rank 5": {
@@ -4853,152 +4894,182 @@
       "Tasks": [{
         "Title": "Marauder 41",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Molted Ziz",
+          "Quantity": 5,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 17000
       },
       {
         "Title": "Marauder 42",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Quartz Doblyn",
+          "Quantity": 5,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "The Burning Wall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 26
+          }
+        },
+        {
+          "Name": "Dead Man's Moan",
+          "Quantity": 3,
+          "Zone": "Western La Noscea",
+          "Subzone": "The Isles of Umbra",
+          "Coordinates": {
+            "x": 15,
+            "y": 35
+          }
+        },
+        {
+          "Name": "Morbol",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
+          "Coordinates": {
+            "x": 23,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 17500
       },
       {
         "Title": "Marauder 43",
         "Target": [{
-          "Name": "name",
+          "Name": "Crater Golem",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Shroud",
+          "Subzone": "The Standing Corses",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 11,
+            "y": 17
           }
         }],
-        "Experience": 99
+        "Experience": 18000
       },
       {
         "Title": "Marauder 44",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Wild Hog",
+          "Quantity": 5,
+          "Zone": "South Shroud",
+          "Subzone": "Urth's Gift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 24
           }
         }],
-        "Experience": 99
+        "Experience": 18500
       },
       {
         "Title": "Marauder 45",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Biast",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 30
           }
         }],
-        "Experience": 99
+        "Experience": 19000
       },
       {
         "Title": "Marauder 46",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "5th Cohort Signifier",
+          "Quantity": 5,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 9,
+            "y": 14
           }
         }],
-        "Experience": 99
+        "Experience": 19500
       },
       {
         "Title": "Marauder 47",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Synthetic Doblyn",
+          "Quantity": 5,
+          "Zone": "Outer La Noscea",
+          "Subzone": "U'Ghamaro Mines",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 8
+          }
+        },
+        {
+          "Name": "Watchwolf",
+          "Quantity": 3,
+          "Zone": "North Shroud",
+          "Subzone": "Proud Creek",
+          "Coordinates": {
+            "x": 20,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Iron Tortoise",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zanr'ak",
+          "Coordinates": {
+            "x": 19,
+            "y": 23
           }
         }],
-        "Experience": 99
+        "Experience": 20000
       },
       {
         "Title": "Marauder 48",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Milkroot Cluster",
+          "Quantity": 5,
+          "Zone": "East Shroud",
+          "Subzone": "Sylphlands",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 16
           }
         }],
-        "Experience": 99
+        "Experience": 20500
       },
       {
         "Title": "Marauder 49",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "4th Cohort Secutor",
+          "Quantity": 5,
+          "Zone": "Western Thanalan",
+          "Subzone": "Cape Westwind",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 10,
+            "y": 6
           }
         }],
-        "Experience": 99
+        "Experience": 2100
       },
       {
         "Title": "Marauder 50",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "2nd Cohort Laquearius",
+          "Quantity": 5,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 21
           }
         }],
-        "Experience": 99
+        "Experience": 21500
       }]
     }
   },
@@ -5017,7 +5088,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 75
       },
       {
         "Title": "Pugilist 02",
@@ -5031,7 +5102,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 180
       },
       {
         "Title": "Pugilist 03",
@@ -5045,7 +5116,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 360
       },
       {
         "Title": "Pugilist 04",
@@ -5059,7 +5130,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 410
       },
       {
         "Title": "Pugilist 05",
@@ -5073,7 +5144,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 530
       },
       {
         "Title": "Pugilist 06",
@@ -5087,7 +5158,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 980
       },
       {
         "Title": "Pugilist 07",
@@ -5101,7 +5172,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1100
       },
       {
         "Title": "Pugilist 08",
@@ -5125,7 +5196,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1300
       },
       {
         "Title": "Pugilist 09",
@@ -5139,7 +5210,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1600
       },
       {
         "Title": "Pugilist 10",
@@ -5153,7 +5224,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1700
       }]
     },
     "Rank 2": {
@@ -5170,7 +5241,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2300
       },
       {
         "Title": "Pugilist 12",
@@ -5184,7 +5255,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 3200
       },
       {
         "Title": "Pugilist 13",
@@ -5198,7 +5269,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4000
       },
       {
         "Title": "Pugilist 14",
@@ -5212,7 +5283,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4500
       },
       {
         "Title": "Pugilist 15",
@@ -5226,7 +5297,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5000
       },
       {
         "Title": "Pugilist 16",
@@ -5240,7 +5311,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5300
       },
       {
         "Title": "Pugilist 17",
@@ -5254,7 +5325,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5500
       },
       {
         "Title": "Pugilist 18",
@@ -5278,7 +5349,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5700
       },
       {
         "Title": "Pugilist 19",
@@ -5292,7 +5363,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5900
       },
       {
         "Title": "Pugilist 20",
@@ -5306,7 +5377,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6100
       }]
     },
     "Rank 3": {
@@ -5323,7 +5394,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6300
       },
       {
         "Title": "Pugilist 22",
@@ -5337,7 +5408,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6500
       },
       {
         "Title": "Pugilist 23",
@@ -5351,7 +5422,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6700
       },
       {
         "Title": "Pugilist 24",
@@ -5365,7 +5436,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6900
       },
       {
         "Title": "Pugilist 25",
@@ -5379,7 +5450,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7100
       },
       {
         "Title": "Pugilist 26",
@@ -5393,7 +5464,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7600
       },
       {
         "Title": "Pugilist 27",
@@ -5407,7 +5478,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 8600
       },
       {
         "Title": "Pugilist 28",
@@ -5431,7 +5502,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9400
       },
       {
         "Title": "Pugilist 29",
@@ -5445,7 +5516,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9700
       },
       {
         "Title": "Pugilist 30",
@@ -5459,7 +5530,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 10000
       }]
     },
     "Rank 4": {
@@ -5476,7 +5547,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 11000
       },
       {
         "Title": "Pugilist 32",
@@ -5490,7 +5561,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12000
       },
       {
         "Title": "Pugilist 33",
@@ -5504,7 +5575,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12500
       },
       {
         "Title": "Pugilist 34",
@@ -5518,7 +5589,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13000
       },
       {
         "Title": "Pugilist 35",
@@ -5532,7 +5603,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13500
       },
       {
         "Title": "Pugilist 36",
@@ -5546,7 +5617,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14000
       },
       {
         "Title": "Pugilist 37",
@@ -5560,7 +5631,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14500
       },
       {
         "Title": "Pugilist 38",
@@ -5584,7 +5655,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 15000
       },
       {
         "Title": "Pugilist 39",
@@ -5598,7 +5669,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16000
       },
       {
         "Title": "Pugilist 40",
@@ -5612,7 +5683,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16500
       }]
     },
     "Rank 5": {
@@ -5629,7 +5700,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17000
       },
       {
         "Title": "Pugilist 42",
@@ -5643,7 +5714,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17500
       },
       {
         "Title": "Pugilist 43",
@@ -5657,7 +5728,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18000
       },
       {
         "Title": "Pugilist 44",
@@ -5671,7 +5742,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18500
       },
       {
         "Title": "Pugilist 45",
@@ -5685,7 +5756,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19000
       },
       {
         "Title": "Pugilist 46",
@@ -5699,7 +5770,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19500
       },
       {
         "Title": "Pugilist 47",
@@ -5713,7 +5784,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20000
       },
       {
         "Title": "Pugilist 48",
@@ -5737,7 +5808,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20500
       },
       {
         "Title": "Pugilist 49",
@@ -5751,7 +5822,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2100
       },
       {
         "Title": "Pugilist 50",
@@ -5765,7 +5836,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 21500
       }]
     }
   },
@@ -5784,7 +5855,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 75
       },
       {
         "Title": "Rogue 02",
@@ -5798,7 +5869,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 180
       },
       {
         "Title": "Rogue 03",
@@ -5812,7 +5883,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 360
       },
       {
         "Title": "Rogue 04",
@@ -5826,7 +5897,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 410
       },
       {
         "Title": "Rogue 05",
@@ -5840,7 +5911,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 530
       },
       {
         "Title": "Rogue 06",
@@ -5854,7 +5925,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 980
       },
       {
         "Title": "Rogue 07",
@@ -5868,7 +5939,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1100
       },
       {
         "Title": "Rogue 08",
@@ -5892,7 +5963,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1300
       },
       {
         "Title": "Rogue 09",
@@ -5906,7 +5977,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1600
       },
       {
         "Title": "Rogue 10",
@@ -5920,7 +5991,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1700
       }]
     },
     "Rank 2": {
@@ -5937,7 +6008,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2300
       },
       {
         "Title": "Rogue 12",
@@ -5951,7 +6022,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 3200
       },
       {
         "Title": "Rogue 13",
@@ -5965,7 +6036,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4000
       },
       {
         "Title": "Rogue 14",
@@ -5979,7 +6050,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4500
       },
       {
         "Title": "Rogue 15",
@@ -5993,7 +6064,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5000
       },
       {
         "Title": "Rogue 16",
@@ -6007,7 +6078,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5300
       },
       {
         "Title": "Rogue 17",
@@ -6021,7 +6092,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5500
       },
       {
         "Title": "Rogue 18",
@@ -6045,7 +6116,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5700
       },
       {
         "Title": "Rogue 19",
@@ -6059,7 +6130,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5900
       },
       {
         "Title": "Rogue 20",
@@ -6073,7 +6144,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6100
       }]
     },
     "Rank 3": {
@@ -6090,7 +6161,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6300
       },
       {
         "Title": "Rogue 22",
@@ -6104,7 +6175,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6500
       },
       {
         "Title": "Rogue 23",
@@ -6118,7 +6189,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6700
       },
       {
         "Title": "Rogue 24",
@@ -6132,7 +6203,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6900
       },
       {
         "Title": "Rogue 25",
@@ -6146,7 +6217,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7100
       },
       {
         "Title": "Rogue 26",
@@ -6160,7 +6231,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7600
       },
       {
         "Title": "Rogue 27",
@@ -6174,7 +6245,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 8600
       },
       {
         "Title": "Rogue 28",
@@ -6198,7 +6269,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9400
       },
       {
         "Title": "Rogue 29",
@@ -6212,7 +6283,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9700
       },
       {
         "Title": "Rogue 30",
@@ -6226,7 +6297,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 10000
       }]
     },
     "Rank 4": {
@@ -6243,7 +6314,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 11000
       },
       {
         "Title": "Rogue 32",
@@ -6257,7 +6328,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12000
       },
       {
         "Title": "Rogue 33",
@@ -6271,7 +6342,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12500
       },
       {
         "Title": "Rogue 34",
@@ -6285,7 +6356,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13000
       },
       {
         "Title": "Rogue 35",
@@ -6299,7 +6370,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13500
       },
       {
         "Title": "Rogue 36",
@@ -6313,7 +6384,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14000
       },
       {
         "Title": "Rogue 37",
@@ -6327,7 +6398,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14500
       },
       {
         "Title": "Rogue 38",
@@ -6351,7 +6422,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 15000
       },
       {
         "Title": "Rogue 39",
@@ -6365,7 +6436,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16000
       },
       {
         "Title": "Rogue 40",
@@ -6379,7 +6450,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16500
       }]
     },
     "Rank 5": {
@@ -6396,7 +6467,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17000
       },
       {
         "Title": "Rogue 42",
@@ -6410,7 +6481,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17500
       },
       {
         "Title": "Rogue 43",
@@ -6424,7 +6495,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18000
       },
       {
         "Title": "Rogue 44",
@@ -6438,7 +6509,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18500
       },
       {
         "Title": "Rogue 45",
@@ -6452,7 +6523,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19000
       },
       {
         "Title": "Rogue 46",
@@ -6466,7 +6537,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19500
       },
       {
         "Title": "Rogue 47",
@@ -6480,7 +6551,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20000
       },
       {
         "Title": "Rogue 48",
@@ -6504,7 +6575,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20500
       },
       {
         "Title": "Rogue 49",
@@ -6518,7 +6589,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2100
       },
       {
         "Title": "Rogue 50",
@@ -6532,7 +6603,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 21500
       }]
     }
   },
@@ -6551,7 +6622,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 75
       },
       {
         "Title": "Thaumaturge 02",
@@ -6565,7 +6636,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 180
       },
       {
         "Title": "Thaumaturge 03",
@@ -6579,7 +6650,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 360
       },
       {
         "Title": "Thaumaturge 04",
@@ -6593,7 +6664,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 410
       },
       {
         "Title": "Thaumaturge 05",
@@ -6607,7 +6678,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 530
       },
       {
         "Title": "Thaumaturge 06",
@@ -6621,7 +6692,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 980
       },
       {
         "Title": "Thaumaturge 07",
@@ -6635,7 +6706,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1100
       },
       {
         "Title": "Thaumaturge 08",
@@ -6659,7 +6730,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1300
       },
       {
         "Title": "Thaumaturge 09",
@@ -6673,7 +6744,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1600
       },
       {
         "Title": "Thaumaturge 10",
@@ -6687,7 +6758,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 1700
       }]
     },
     "Rank 2": {
@@ -6704,7 +6775,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2300
       },
       {
         "Title": "Thaumaturge 12",
@@ -6718,7 +6789,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 3200
       },
       {
         "Title": "Thaumaturge 13",
@@ -6732,7 +6803,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4000
       },
       {
         "Title": "Thaumaturge 14",
@@ -6746,7 +6817,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 4500
       },
       {
         "Title": "Thaumaturge 15",
@@ -6760,7 +6831,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5000
       },
       {
         "Title": "Thaumaturge 16",
@@ -6774,7 +6845,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5300
       },
       {
         "Title": "Thaumaturge 17",
@@ -6788,7 +6859,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5500
       },
       {
         "Title": "Thaumaturge 18",
@@ -6812,7 +6883,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5700
       },
       {
         "Title": "Thaumaturge 19",
@@ -6826,7 +6897,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 5900
       },
       {
         "Title": "Thaumaturge 20",
@@ -6840,7 +6911,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6100
       }]
     },
     "Rank 3": {
@@ -6857,7 +6928,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6300
       },
       {
         "Title": "Thaumaturge 22",
@@ -6871,7 +6942,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6500
       },
       {
         "Title": "Thaumaturge 23",
@@ -6885,7 +6956,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6700
       },
       {
         "Title": "Thaumaturge 24",
@@ -6899,7 +6970,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 6900
       },
       {
         "Title": "Thaumaturge 25",
@@ -6913,7 +6984,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7100
       },
       {
         "Title": "Thaumaturge 26",
@@ -6927,7 +6998,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 7600
       },
       {
         "Title": "Thaumaturge 27",
@@ -6941,7 +7012,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 8600
       },
       {
         "Title": "Thaumaturge 28",
@@ -6965,7 +7036,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9400
       },
       {
         "Title": "Thaumaturge 29",
@@ -6979,7 +7050,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 9700
       },
       {
         "Title": "Thaumaturge 30",
@@ -6993,7 +7064,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 10000
       }]
     },
     "Rank 4": {
@@ -7010,7 +7081,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 11000
       },
       {
         "Title": "Thaumaturge 32",
@@ -7024,7 +7095,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12000
       },
       {
         "Title": "Thaumaturge 33",
@@ -7038,7 +7109,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 12500
       },
       {
         "Title": "Thaumaturge 34",
@@ -7052,7 +7123,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13000
       },
       {
         "Title": "Thaumaturge 35",
@@ -7066,7 +7137,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 13500
       },
       {
         "Title": "Thaumaturge 36",
@@ -7080,7 +7151,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14000
       },
       {
         "Title": "Thaumaturge 37",
@@ -7094,7 +7165,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 14500
       },
       {
         "Title": "Thaumaturge 38",
@@ -7118,7 +7189,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 15000
       },
       {
         "Title": "Thaumaturge 39",
@@ -7132,7 +7203,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16000
       },
       {
         "Title": "Thaumaturge 40",
@@ -7146,7 +7217,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 16500
       }]
     },
     "Rank 5": {
@@ -7163,7 +7234,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17000
       },
       {
         "Title": "Thaumaturge 42",
@@ -7177,7 +7248,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 17500
       },
       {
         "Title": "Thaumaturge 43",
@@ -7191,7 +7262,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18000
       },
       {
         "Title": "Thaumaturge 44",
@@ -7205,7 +7276,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 18500
       },
       {
         "Title": "Thaumaturge 45",
@@ -7219,7 +7290,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19000
       },
       {
         "Title": "Thaumaturge 46",
@@ -7233,7 +7304,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 19500
       },
       {
         "Title": "Thaumaturge 47",
@@ -7247,7 +7318,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20000
       },
       {
         "Title": "Thaumaturge 48",
@@ -7271,7 +7342,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 20500
       },
       {
         "Title": "Thaumaturge 49",
@@ -7285,7 +7356,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 2100
       },
       {
         "Title": "Thaumaturge 50",
@@ -7299,7 +7370,7 @@
             "y": 99
           }
         }],
-        "Experience": 99
+        "Experience": 21500
       }]
     }
   },
