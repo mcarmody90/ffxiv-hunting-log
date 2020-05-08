@@ -957,11 +957,11 @@
         "Target": [{
           "Name": "Hornet Swarm",
           "Quantity": 4,
-          "Zone": "Central Shroud",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
-            "x": 23,
-            "y": 25
+            "x": 12,
+            "y": 26
           }
         }],
         "Experience": 2300
@@ -972,7 +972,7 @@
           "Name": "Arbor Buzzard",
           "Quantity": 4,
           "Zone": "Central Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Bentbranch",
           "Coordinates": {
             "x": 26,
             "y": 29
@@ -986,7 +986,7 @@
           "Name": "Magicked Bones",
           "Quantity": 1,
           "Zone": "Central Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Bentbranch",
           "Coordinates": {
             "x": 19,
             "y": 27
@@ -996,7 +996,7 @@
           "Name": "Treant Sapling",
           "Quantity": 1,
           "Zone": "Central Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Jadeite Thick",
           "Coordinates": {
             "x": 27,
             "y": 15
@@ -1006,7 +1006,7 @@
           "Name": "Goblin Hunter",
           "Quantity": 1,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
             "x": 13,
             "y": 27
@@ -1016,7 +1016,7 @@
           "Name": "Mandragora",
           "Quantity": 1,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
             "x": 13,
             "y": 25
@@ -1031,7 +1031,7 @@
           "Name": "Wild Hoglet",
           "Quantity": 4,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "The Honey Yard",
           "Coordinates": {
             "x": 13,
             "y": 23
@@ -1045,7 +1045,7 @@
           "Name": "Lemur",
           "Quantity": 4,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
             "x": 20,
             "y": 29
@@ -1059,7 +1059,7 @@
           "Name": "Faerie Funguar",
           "Quantity": 4,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
             "x": 18,
             "y": 28
@@ -1073,7 +1073,7 @@
           "Name": "Giant Gnat",
           "Quantity": 4,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
             "x": 19,
             "y": 27
@@ -1087,7 +1087,7 @@
           "Name": "Raptor Poacher",
           "Quantity": 3,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
             "x": 19,
             "y": 30
@@ -1101,7 +1101,7 @@
           "Name": "Antelope Doe",
           "Quantity": 4,
           "Zone": "South Shroud",
-          "Subzone": "subzone",
+          "Subzone": "Upper Paths",
           "Coordinates": {
             "x": 15,
             "y": 18
@@ -1115,7 +1115,7 @@
           "Name": "Wild Boar",
           "Quantity": 4,
           "Zone": "East Shroud",
-          "Subzone": "subzone",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
             "x": 18,
             "y": 24
