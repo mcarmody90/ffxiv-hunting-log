@@ -4244,7 +4244,7 @@
           "Name": "Little Ladybug",
           "Quantity": 3,
           "Zone": "Middle La Noscea",
-          "Subzone": "Zephyr's Drift",
+          "Subzone": "Zephyr Drift",
           "Coordinates": {
             "x": 23,
             "y": 24
@@ -4258,7 +4258,7 @@
           "Name": "Wharf Rat",
           "Quantity": 3,
           "Zone": "Middle La Noscea",
-          "Subzone": "Zephyr's Drift",
+          "Subzone": "Zephyr Drift",
           "Coordinates": {
             "x": 21,
             "y": 23
@@ -4401,7 +4401,7 @@
           "Name": "Mossless Goobbue",
           "Quantity": 4,
           "Zone": "Lower La Noscea",
-          "Subzone": "Zephyr's Drift",
+          "Subzone": "Zephyr Drift",
           "Coordinates": {
             "x": 22,
             "y": 24
@@ -5976,13 +5976,13 @@
       "Tasks": [{
         "Title": "Rogue 01",
         "Target": [{
-          "Name": "name",
+          "Name": "Wharf Rat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 23
           }
         }],
         "Experience": 75
@@ -5990,13 +5990,13 @@
       {
         "Title": "Rogue 02",
         "Target": [{
-          "Name": "name",
+          "Name": "Lost Lamb",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 24
           }
         }],
         "Experience": 180
@@ -6004,13 +6004,13 @@
       {
         "Title": "Rogue 03",
         "Target": [{
-          "Name": "name",
+          "Name": "Aurelia",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Moraby Bay",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 26
           }
         }],
         "Experience": 360
@@ -6018,13 +6018,13 @@
       {
         "Title": "Rogue 04",
         "Target": [{
-          "Name": "name",
+          "Name": "Wild Dodo",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 19
           }
         }],
         "Experience": 410
@@ -6032,13 +6032,23 @@
       {
         "Title": "Rogue 05",
         "Target": [{
-          "Name": "name",
+          "Name": "Pugil",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Cedarwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 22
+          }
+        },
+        {
+          "Name": "Goblin Fisher",
+          "Quantity": 1,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Zephyr Drift",
+          "Coordinates": {
+            "x": 23,
+            "y": 21
           }
         }],
         "Experience": 530
@@ -6046,13 +6056,13 @@
       {
         "Title": "Rogue 06",
         "Target": [{
-          "Name": "name",
+          "Name": "Tiny Mandragora",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 18
           }
         }],
         "Experience": 980
@@ -6060,13 +6070,13 @@
       {
         "Title": "Rogue 07",
         "Target": [{
-          "Name": "name",
+          "Name": "Cave Bat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 15
           }
         }],
         "Experience": 1100
@@ -6074,23 +6084,13 @@
       {
         "Title": "Rogue 08",
         "Target": [{
-          "Name": "name",
+          "Name": "Galago",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "Cedarwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 14
           }
         }],
         "Experience": 1300
@@ -6098,13 +6098,23 @@
       {
         "Title": "Rogue 09",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Grounded Pirate",
+          "Quantity": 1,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 16
+          }
+        },
+        {
+          "Name": "Grounded Raider",
+          "Quantity": 1,
+          "Zone": "Middle La Noscea",
+          "Subzone": "Summerford",
+          "Coordinates": {
+            "x": 20,
+            "y": 17
           }
         }],
         "Experience": 1600
@@ -6112,13 +6122,13 @@
       {
         "Title": "Rogue 10",
         "Target": [{
-          "Name": "name",
+          "Name": "Megalocrab",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Middle La Noscea",
+          "Subzone": "Three-malm Bend",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 13
           }
         }],
         "Experience": 1700
@@ -6129,13 +6139,13 @@
       "Tasks": [{
         "Title": "Rogue 11",
         "Target": [{
-          "Name": "name",
+          "Name": "Wild Jackal",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 34
           }
         }],
         "Experience": 2300
@@ -6143,13 +6153,23 @@
       {
         "Title": "Rogue 12",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Roseling",
+          "Quantity": 1,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 34,
+            "y": 30
+          }
+        },
+        {
+          "Name": "Sewer Mole",
+          "Quantity": 2,
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
+          "Coordinates": {
+            "x": 33,
+            "y": 28
           }
         }],
         "Experience": 3200
@@ -6157,13 +6177,13 @@
       {
         "Title": "Rogue 13",
         "Target": [{
-          "Name": "name",
+          "Name": "Fat Dodo",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 27
           }
         }],
         "Experience": 4000
@@ -6171,13 +6191,13 @@
       {
         "Title": "Rogue 14",
         "Target": [{
-          "Name": "name",
+          "Name": "Moraby Mole",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 34
           }
         }],
         "Experience": 4500
@@ -6185,13 +6205,13 @@
       {
         "Title": "Rogue 15",
         "Target": [{
-          "Name": "name",
+          "Name": "Qiqirn Eggdigger",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Lower La Noscea",
+          "Subzone": "The God's Grip",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 35
           }
         }],
         "Experience": 5000
@@ -6199,13 +6219,13 @@
       {
         "Title": "Rogue 16",
         "Target": [{
-          "Name": "name",
+          "Name": "Puk Hatchling",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 22
           }
         }],
         "Experience": 5300
@@ -6213,13 +6233,13 @@
       {
         "Title": "Rogue 17",
         "Target": [{
-          "Name": "name",
+          "Name": "Rothlyt Pelican",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 22
           }
         }],
         "Experience": 5500
@@ -6227,23 +6247,23 @@
       {
         "Title": "Rogue 18",
         "Target": [{
-          "Name": "name",
+          "Name": "Killer Mantis",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Quarterstone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 22
           }
         },
         {
-          "Name": "name",
+          "Name": "Hedgemole",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western La Noscea",
+          "Subzone": "Skull Valley",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 23
           }
         }],
         "Experience": 5700
@@ -6251,13 +6271,13 @@
       {
         "Title": "Rogue 19",
         "Target": [{
-          "Name": "name",
+          "Name": "Wild Wolf",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 26
           }
         }],
         "Experience": 5900
@@ -6265,13 +6285,13 @@
       {
         "Title": "Rogue 20",
         "Target": [{
-          "Name": "name",
+          "Name": "Bumble Beetle",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 12,
+            "y": 23
           }
         }],
         "Experience": 6100
@@ -6282,13 +6302,13 @@
       "Tasks": [{
         "Title": "Rogue 21",
         "Target": [{
-          "Name": "name",
+          "Name": "Black Bat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 22
           }
         }],
         "Experience": 6300
@@ -6296,13 +6316,13 @@
       {
         "Title": "Rogue 22",
         "Target": [{
-          "Name": "name",
+          "Name": "Gall Gnat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "Nine Ivies",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 30
           }
         }],
         "Experience": 6500
@@ -6310,13 +6330,13 @@
       {
         "Title": "Rogue 23",
         "Target": [{
-          "Name": "name",
+          "Name": "Overgrown Ivy",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 29
           }
         }],
         "Experience": 6700
@@ -6324,13 +6344,13 @@
       {
         "Title": "Rogue 24",
         "Target": [{
-          "Name": "name",
+          "Name": "Bark Eft",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 24
           }
         }],
         "Experience": 6900
@@ -6338,13 +6358,23 @@
       {
         "Title": "Rogue 25",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Redbelly Lookout",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 18
+          }
+        },
+        {
+          "Name": "Redbelly Larcener",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
+          "Coordinates": {
+            "x": 23,
+            "y": 18
           }
         }],
         "Experience": 7100
@@ -6352,13 +6382,13 @@
       {
         "Title": "Rogue 26",
         "Target": [{
-          "Name": "name",
+          "Name": "Antelope Stag",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 20
           }
         }],
         "Experience": 7600
@@ -6366,13 +6396,13 @@
       {
         "Title": "Rogue 27",
         "Target": [{
-          "Name": "name",
+          "Name": "River Yarzon",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 22
           }
         }],
         "Experience": 8600
@@ -6380,23 +6410,23 @@
       {
         "Title": "Rogue 28",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Corpse Brigade Knuckledancer",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 11
           }
         },
         {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Corpse Brigade Firedancer",
+          "Quantity": 2,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 11
           }
         }],
         "Experience": 9400
@@ -6404,13 +6434,23 @@
       {
         "Title": "Rogue 29",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Coeurlclaw Hunter",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 21
+          }
+        },
+        {
+          "Name": "Coeurlclaw Cutter",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
+          "Coordinates": {
+            "x": 28,
+            "y": 21
           }
         }],
         "Experience": 9700
@@ -6418,13 +6458,13 @@
       {
         "Title": "Rogue 30",
         "Target": [{
-          "Name": "name",
+          "Name": "Sandstone Golem",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 12
           }
         }],
         "Experience": 10000
@@ -6435,13 +6475,13 @@
       "Tasks": [{
         "Title": "Rogue 31",
         "Target": [{
-          "Name": "name",
+          "Name": "Large Buffalo",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 30
           }
         }],
         "Experience": 11000
@@ -6449,13 +6489,13 @@
       {
         "Title": "Rogue 32",
         "Target": [{
-          "Name": "name",
+          "Name": "Grass Raptor",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 25
           }
         }],
         "Experience": 12000
@@ -6463,13 +6503,23 @@
       {
         "Title": "Rogue 33",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Qiqirn Gullroaster",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 33
+          }
+        },
+        {
+          "Name": "Colibri",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Bloodshore",
+          "Coordinates": {
+            "x": 31,
+            "y": 24
           }
         }],
         "Experience": 12500
@@ -6477,13 +6527,23 @@
       {
         "Title": "Rogue 34",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Coeurl",
+          "Quantity": 1,
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 14,
+            "y": 14
+          }
+        },
+        {
+          "Name": "Highland Condor",
+          "Quantity": 2,
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
+          "Coordinates": {
+            "x": 15,
+            "y": 17
           }
         }],
         "Experience": 13000
@@ -6491,13 +6551,13 @@
       {
         "Title": "Rogue 35",
         "Target": [{
-          "Name": "name",
+          "Name": "Basalt Golem",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Outer La Noscea",
+          "Subzone": "The Long Climb",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 15
           }
         }],
         "Experience": 13500
@@ -6505,13 +6565,13 @@
       {
         "Title": "Rogue 36",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Velociraptor",
+          "Quantity": 4,
+          "Zone": "Outer La Noscea",
+          "Subzone": "Wellwick Wood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 15
           }
         }],
         "Experience": 14000
@@ -6519,13 +6579,23 @@
       {
         "Title": "Rogue 37",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Feral Croc",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Highland Goobbue",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
+          "Coordinates": {
+            "x": 25,
+            "y": 20
           }
         }],
         "Experience": 14500
@@ -6533,23 +6603,13 @@
       {
         "Title": "Rogue 38",
         "Target": [{
-          "Name": "name",
+          "Name": "Redhorn Ogre",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 12
           }
         }],
         "Experience": 15000
@@ -6557,13 +6617,13 @@
       {
         "Title": "Rogue 39",
         "Target": [{
-          "Name": "name",
+          "Name": "Taurus",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 12
           }
         }],
         "Experience": 16000
@@ -6571,13 +6631,23 @@
       {
         "Title": "Rogue 40",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Bateleur",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 19
+          }
+        },
+        {
+          "Name": "Chinchilla",
+          "Quantity": 2,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Whitebrim",
+          "Coordinates": {
+            "x": 16,
+            "y": 19
           }
         }],
         "Experience": 16500
@@ -6588,13 +6658,13 @@
       "Tasks": [{
         "Title": "Rogue 41",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Golden Fleece",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "The Burning Wall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 25
           }
         }],
         "Experience": 17000
@@ -6602,13 +6672,13 @@
       {
         "Title": "Rogue 42",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Quartz Doblyn",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "The Burning Wall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 30,
+            "y": 25
           }
         }],
         "Experience": 17500
@@ -6616,13 +6686,13 @@
       {
         "Title": "Rogue 43",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Nix",
+          "Quantity": 4,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 9
           }
         }],
         "Experience": 18000
@@ -6630,13 +6700,13 @@
       {
         "Title": "Rogue 44",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Mudpuppy",
+          "Quantity": 5,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 11
           }
         }],
         "Experience": 18500
@@ -6644,13 +6714,23 @@
       {
         "Title": "Rogue 45",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Daring Harrier",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 15
+          }
+        },
+        {
+          "Name": "Raging Harrier",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
+          "Coordinates": {
+            "x": 16,
+            "y": 15
           }
         }],
         "Experience": 19000
@@ -6658,13 +6738,23 @@
       {
         "Title": "Rogue 46",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Gigas Shramana",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Singing Shards",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 11
+          }
+        },
+        {
+          "Name": "Gigas Sozu",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Singing Shards",
+          "Coordinates": {
+            "x": 27,
+            "y": 11
           }
         }],
         "Experience": 19500
@@ -6672,13 +6762,13 @@
       {
         "Title": "Rogue 47",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Hippogryph",
+          "Quantity": 4,
+          "Zone": "Mor Dhona",
+          "Subzone": "North Silvertear",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 10
           }
         }],
         "Experience": 20000
@@ -6686,23 +6776,13 @@
       {
         "Title": "Rogue 48",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Hapalit",
+          "Quantity": 4,
+          "Zone": "Mor Dhona",
+          "Subzone": "Singing Shards",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 31,
+            "y": 5
           }
         }],
         "Experience": 20500
@@ -6710,13 +6790,23 @@
       {
         "Title": "Rogue 49",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "2nd Cohort Eques",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 20
+          }
+        },
+        {
+          "Name": "2nd Cohort Signifier",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
+          "Coordinates": {
+            "x": 29,
+            "y": 20
           }
         }],
         "Experience": 2100
@@ -6724,13 +6814,23 @@
       {
         "Title": "Rogue 50",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "2nd Cohort Secutor",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 30,
+            "y": 19
+          }
+        },
+        {
+          "Name": "2nd Cohort Vanguard",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
+          "Coordinates": {
+            "x": 30,
+            "y": 19
           }
         }],
         "Experience": 21500
