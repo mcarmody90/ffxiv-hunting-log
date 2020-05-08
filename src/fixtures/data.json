@@ -6843,13 +6843,13 @@
       "Tasks": [{
         "Title": "Thaumaturge 01",
         "Target": [{
-          "Name": "name",
+          "Name": "Little Ladybug",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "Hammerlea",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 24
           }
         }],
         "Experience": 75
@@ -6857,13 +6857,13 @@
       {
         "Title": "Thaumaturge 02",
         "Target": [{
-          "Name": "name",
+          "Name": "Huge Hornet",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Fesca's Wash",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 22,
+            "y": 27
           }
         }],
         "Experience": 180
@@ -6871,13 +6871,13 @@
       {
         "Title": "Thaumaturge 03",
         "Target": [{
-          "Name": "name",
+          "Name": "Cactuar",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "Hammerlea",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 24
           }
         }],
         "Experience": 360
@@ -6885,13 +6885,13 @@
       {
         "Title": "Thaumaturge 04",
         "Target": [{
-          "Name": "name",
+          "Name": "Snapping Shrew",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Spineless Basin",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 30
           }
         }],
         "Experience": 410
@@ -6899,13 +6899,13 @@
       {
         "Title": "Thaumaturge 05",
         "Target": [{
-          "Name": "name",
+          "Name": "Syrphid Cloud",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Black Brush",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 21
           }
         }],
         "Experience": 530
@@ -6913,13 +6913,13 @@
       {
         "Title": "Thaumaturge 06",
         "Target": [{
-          "Name": "name",
+          "Name": "Yarzon Feeder",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "Hammerlea",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 27
           }
         }],
         "Experience": 980
@@ -6927,13 +6927,13 @@
       {
         "Title": "Thaumaturge 07",
         "Target": [{
-          "Name": "name",
+          "Name": "Rusty Coblyn",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "Hammerlea",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 28
           }
         }],
         "Experience": 1100
@@ -6941,23 +6941,13 @@
       {
         "Title": "Thaumaturge 08",
         "Target": [{
-          "Name": "name",
+          "Name": "Spriggan Graverobber",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Black Brush",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 23
           }
         }],
         "Experience": 1300
@@ -6965,13 +6955,13 @@
       {
         "Title": "Thaumaturge 09",
         "Target": [{
-          "Name": "name",
+          "Name": "Qiqirn Shellsweeper",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "Black Brush",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 17,
+            "y": 19
           }
         }],
         "Experience": 1600
@@ -6979,13 +6969,13 @@
       {
         "Title": "Thaumaturge 10",
         "Target": [{
-          "Name": "name",
+          "Name": "Sun Bat",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "The Clutch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 18
           }
         }],
         "Experience": 1700
@@ -6996,13 +6986,23 @@
       "Tasks": [{
         "Title": "Thaumaturge 11",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Copper Coblyn",
+          "Quantity": 2,
+          "Zone": "Western Thanalan",
+          "Subzone": "Horizon's Edge",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 16
+          }
+        },
+        {
+          "Name": "Bomb",
+          "Quantity": 3,
+          "Zone": "Western Thanalan",
+          "Subzone": "Horizon's Edge",
+          "Coordinates": {
+            "x": 27,
+            "y": 16
           }
         }],
         "Experience": 2300
@@ -7010,13 +7010,23 @@
       {
         "Title": "Thaumaturge 12",
         "Target": [{
-          "Name": "name",
+          "Name": "Cochineal Cactuar",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "The Clutch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 19
+          }
+        },
+        {
+          "Name": "Quiveron Attendant",
+          "Quantity": 2,
+          "Zone": "Central Thanalan",
+          "Subzone": "The Clutch",
+          "Coordinates": {
+            "x": 23,
+            "y": 20
           }
         }],
         "Experience": 3200
@@ -7024,13 +7034,23 @@
       {
         "Title": "Thaumaturge 13",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Giant Tortoise",
+          "Quantity": 2,
+          "Zone": "Western Thanalan",
+          "Subzone": "Spineless Basin",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 26
+          }
+        },
+        {
+          "Name": "Antling Sentry",
+          "Quantity": 3,
+          "Zone": "Central Thanalan",
+          "Subzone": "The Clutch",
+          "Coordinates": {
+            "x": 16,
+            "y": 14
           }
         }],
         "Experience": 4000
@@ -7038,13 +7058,13 @@
       {
         "Title": "Thaumaturge 14",
         "Target": [{
-          "Name": "name",
+          "Name": "Thickshell",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 16
           }
         }],
         "Experience": 4500
@@ -7052,13 +7072,13 @@
       {
         "Title": "Thaumaturge 15",
         "Target": [{
-          "Name": "name",
+          "Name": "Toxic Toad",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Central Thanalan",
+          "Subzone": "The Clutch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 18
           }
         }],
         "Experience": 5000
@@ -7066,13 +7086,13 @@
       {
         "Title": "Thaumaturge 16",
         "Target": [{
-          "Name": "name",
+          "Name": "Tuco-tuco",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Drybone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 24
           }
         }],
         "Experience": 5300
@@ -7080,13 +7100,13 @@
       {
         "Title": "Thaumaturge 17",
         "Target": [{
-          "Name": "name",
+          "Name": "Myotragus Nanny",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Drybone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 22
           }
         }],
         "Experience": 5500
@@ -7094,23 +7114,13 @@
       {
         "Title": "Thaumaturge 18",
         "Target": [{
-          "Name": "name",
+          "Name": "Blowfly Swarm",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Drybone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 12,
+            "y": 21
           }
         }],
         "Experience": 5700
@@ -7118,13 +7128,13 @@
       {
         "Title": "Thaumaturge 19",
         "Target": [{
-          "Name": "name",
+          "Name": "Rotting Corpse",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Drybone",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 16
           }
         }],
         "Experience": 5900
@@ -7132,13 +7142,13 @@
       {
         "Title": "Thaumaturge 20",
         "Target": [{
-          "Name": "name",
+          "Name": "Bloated Bogy",
           "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 11
           }
         }],
         "Experience": 6100
@@ -7149,13 +7159,23 @@
       "Tasks": [{
         "Title": "Thaumaturge 21",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Kedtrap",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 21,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Overgrown Ivy",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
+          "Coordinates": {
+            "x": 23,
+            "y": 29
           }
         }],
         "Experience": 6300
@@ -7163,13 +7183,23 @@
       {
         "Title": "Thaumaturge 22",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Yarzon Scavenger",
+          "Quantity": 2,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 8
+          }
+        },
+        {
+          "Name": "Forest Yarzon",
+          "Quantity": 4,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Oakwood",
+          "Coordinates": {
+            "x": 11,
+            "y": 21
           }
         }],
         "Experience": 6500
@@ -7177,13 +7207,23 @@
       {
         "Title": "Thaumaturge 23",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Laughing Toad",
+          "Quantity": 4,
+          "Zone": "Western Thanalan",
+          "Subzone": "The Footfalls",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 7
+          }
+        },
+        {
+          "Name": "Bark Eft",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Upper Paths",
+          "Coordinates": {
+            "x": 17,
+            "y": 24
           }
         }],
         "Experience": 6700
@@ -7191,13 +7231,23 @@
       {
         "Title": "Thaumaturge 24",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Jumping Djigga",
+          "Quantity": 4,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 15,
+            "y": 21
+          }
+        },
+        {
+          "Name": "Glowfly",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "The Bramble Patch",
+          "Coordinates": {
+            "x": 15,
+            "y": 21
           }
         }],
         "Experience": 6900
@@ -7205,13 +7255,13 @@
       {
         "Title": "Thaumaturge 25",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "River Yarzon",
+          "Quantity": 4,
+          "Zone": "South Shroud",
+          "Subzone": "Silent Arbor",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 22
           }
         }],
         "Experience": 7100
@@ -7219,13 +7269,13 @@
       {
         "Title": "Thaumaturge 26",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Potter Wasp Swarm",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 9
           }
         }],
         "Experience": 7600
@@ -7233,13 +7283,13 @@
       {
         "Title": "Thaumaturge 27",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Phurble",
+          "Quantity": 4,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "Wellwick Wood",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 20
           }
         }],
         "Experience": 8600
@@ -7247,23 +7297,13 @@
       {
         "Title": "Thaumaturge 28",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Corpse Brigade Knuckledancer",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Broken Water",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 24,
+            "y": 9
           }
         }],
         "Experience": 9400
@@ -7271,13 +7311,13 @@
       {
         "Title": "Thaumaturge 29",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Fire Sprite",
+          "Quantity": 4,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 13,
+            "y": 20
           }
         }],
         "Experience": 9700
@@ -7285,13 +7325,13 @@
       {
         "Title": "Thaumaturge 30",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Stroper",
+          "Quantity": 4,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 12,
+            "y": 21
           }
         }],
         "Experience": 10000
@@ -7302,13 +7342,23 @@
       "Tasks": [{
         "Title": "Thaumaturge 31",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Adamantoise",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Lower Paths",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 16,
+            "y": 30
+          }
+        },
+        {
+          "Name": "Mamool Ja Executioner",
+          "Quantity": 1,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Bronze Lake",
+          "Coordinates": {
+            "x": 27,
+            "y": 23
           }
         }],
         "Experience": 11000
@@ -7316,13 +7366,23 @@
       {
         "Title": "Thaumaturge 32",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Revenant",
+          "Quantity": 2,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 12,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Russet Yarzon",
+          "Quantity": 5,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
+          "Coordinates": {
+            "x": 14,
+            "y": 32
           }
         }],
         "Experience": 12000
@@ -7330,13 +7390,23 @@
       {
         "Title": "Thaumaturge 33",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Smoke Bomb",
+          "Quantity": 5,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Sagolii Desert",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 35
+          }
+        },
+        {
+          "Name": "Dung Midge Swarm",
+          "Quantity": 2,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
+          "Coordinates": {
+            "x": 18,
+            "y": 28
           }
         }],
         "Experience": 12500
@@ -7344,13 +7414,23 @@
       {
         "Title": "Thaumaturge 34",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Gigantoad",
+          "Quantity": 5,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Raincatcher Gully",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 18,
+            "y": 26
+          }
+        },
+        {
+          "Name": "Spriggan",
+          "Quantity": 2,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
+          "Coordinates": {
+            "x": 11,
+            "y": 16
           }
         }],
         "Experience": 13000
@@ -7358,13 +7438,13 @@
       {
         "Title": "Thaumaturge 35",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Salamander",
+          "Quantity": 5,
+          "Zone": "Upper La Noscea",
+          "Subzone": "Bronze Lake",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 28,
+            "y": 24
           }
         }],
         "Experience": 13500
@@ -7372,13 +7452,13 @@
       {
         "Title": "Thaumaturge 36",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Plasmoid",
+          "Quantity": 5,
+          "Zone": "Outer La Noscea",
+          "Subzone": "Iron Lake",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 18
           }
         }],
         "Experience": 14000
@@ -7386,13 +7466,13 @@
       {
         "Title": "Thaumaturge 37",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Ice Sprite",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Dragonhead",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 20,
+            "y": 31
           }
         }],
         "Experience": 14500
@@ -7400,23 +7480,13 @@
       {
         "Title": "Thaumaturge 38",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Feral Croc",
+          "Quantity": 5,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Providence Point",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 26,
+            "y": 24
           }
         }],
         "Experience": 15000
@@ -7424,13 +7494,13 @@
       {
         "Title": "Thaumaturge 39",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Will-o'-the-wisp",
+          "Quantity": 5,
+          "Zone": "South Shroud",
+          "Subzone": "Snakemolt",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 24
           }
         }],
         "Experience": 16000
@@ -7438,13 +7508,13 @@
       {
         "Title": "Thaumaturge 40",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Golden Fleece",
+          "Quantity": 5,
+          "Zone": "Eastern Thanalan",
+          "Subzone": "The Burning Wall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 24
           }
         }],
         "Experience": 16500
@@ -7455,13 +7525,23 @@
       "Tasks": [{
         "Title": "Thaumaturge 41",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Oldgrowth Treant",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Larkscall",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 25,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Dragonfly",
+          "Quantity": 6,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Whitebrim",
+          "Coordinates": {
+            "x": 9,
+            "y": 14
           }
         }],
         "Experience": 17000
@@ -7469,13 +7549,23 @@
       {
         "Title": "Thaumaturge 42",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Crater Golem",
+          "Quantity": 1,
+          "Zone": "Central Shroud",
+          "Subzone": "Sorrel Haven",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 10,
+            "y": 16
+          }
+        },
+        {
+          "Name": "Dead Man's Moan",
+          "Quantity": 6,
+          "Zone": "Western La Noscea",
+          "Subzone": "The Umbra Isles",
+          "Coordinates": {
+            "x": 15,
+            "y": 34
           }
         }],
         "Experience": 17500
@@ -7483,13 +7573,23 @@
       {
         "Title": "Thaumaturge 43",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "3rd Cohort Secutor",
+          "Quantity": 2,
+          "Zone": "East Shroud",
+          "Subzone": "Sylphlands",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 20
+          }
+        },
+        {
+          "Name": "Morbol",
+          "Quantity": 6,
+          "Zone": "East Shroud",
+          "Subzone": "Fogfens",
+          "Coordinates": {
+            "x": 23,
+            "y": 21
           }
         }],
         "Experience": 18000
@@ -7497,13 +7597,23 @@
       {
         "Title": "Thaumaturge 44",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Nix",
+          "Quantity": 5,
+          "Zone": "Mor Dhona",
+          "Subzone": "Fogfens",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 9
+          }
+        },
+        {
+          "Name": "Lesser Kalong",
+          "Quantity": 2,
+          "Zone": "South Shroud",
+          "Subzone": "Urth's Gift",
+          "Coordinates": {
+            "x": 28,
+            "y": 22
           }
         }],
         "Experience": 18500
@@ -7511,13 +7621,23 @@
       {
         "Title": "Thaumaturge 45",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Gigas Sozu",
+          "Quantity": 2,
+          "Zone": "Mor Dhona",
+          "Subzone": "Singing Shards",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 29,
+            "y": 14
+          }
+        },
+        {
+          "Name": "Giant Logger",
+          "Quantity": 3,
+          "Zone": "Coerthas Central Highlands",
+          "Subzone": "Boulder Downs",
+          "Coordinates": {
+            "x": 13,
+            "y": 26
           }
         }],
         "Experience": 19000
@@ -7525,13 +7645,13 @@
       {
         "Title": "Thaumaturge 46",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Iron Tortoise",
+          "Quantity": 6,
+          "Zone": "Southern Thanalan",
+          "Subzone": "Zanr'ak",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 19,
+            "y": 23
           }
         }],
         "Experience": 19500
@@ -7539,13 +7659,13 @@
       {
         "Title": "Thaumaturge 47",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Synthetic Doblyn",
+          "Quantity": 6,
+          "Zone": "Outer La Noscea",
+          "Subzone": "Iron Lake",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 23,
+            "y": 8
           }
         }],
         "Experience": 20000
@@ -7553,23 +7673,13 @@
       {
         "Title": "Thaumaturge 48",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "Ked",
+          "Quantity": 6,
+          "Zone": "South Shroud",
+          "Subzone": "Urth's Gift",
           "Coordinates": {
-            "x": 99,
-            "y": 99
-          }
-        },
-        {
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
-          "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 32,
+            "y": 24
           }
         }],
         "Experience": 20500
@@ -7577,13 +7687,13 @@
       {
         "Title": "Thaumaturge 49",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "4th Cohort Hoplomachus",
+          "Quantity": 6,
+          "Zone": "Western Thanalan",
+          "Subzone": "Cape Westwind",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 12,
+            "y": 7
           }
         }],
         "Experience": 2100
@@ -7591,13 +7701,13 @@
       {
         "Title": "Thaumaturge 50",
         "Target": [{
-          "Name": "name",
-          "Quantity": 3,
-          "Zone": "zone",
-          "Subzone": "subzone",
+          "Name": "2nd Cohort Signifier",
+          "Quantity": 6,
+          "Zone": "Eastern La Noscea",
+          "Subzone": "Agelyss Wise",
           "Coordinates": {
-            "x": 99,
-            "y": 99
+            "x": 27,
+            "y": 21
           }
         }],
         "Experience": 21500
