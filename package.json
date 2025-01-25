@@ -18,7 +18,7 @@
     "xivapi-js": "^0.3.0"
   },
   "homepage": "https://mcarmody90.github.io/ffxiv-hunting-log",
-  "scripts": { 
+  "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
