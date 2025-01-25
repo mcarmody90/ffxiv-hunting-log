@@ -17,7 +17,7 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
       <h3 onClick={handleShowChildren} className='target-item__title'>{Title}</h3>
       {showChildren ? Target.map(target => (
           <div onClick={() => setCurrentTarget(target)} className='target-item' key={uuidv4()}>
-            <p className='target-item__name'>{target.Name} x{target.Quantity}</p>
+            <p className='target-item__name'>{target.Name} x {target.Quantity}</p>
             <p>{target.Zone} - {target.Subzone}</p>
             <p>Coordinates: x {target.Coordinates.x}, y {target.Coordinates.y}</p>
           </div>

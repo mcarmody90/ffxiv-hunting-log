@@ -7,8 +7,6 @@
     padding-top: 20px;
     font-family: 'Fondamento', sans-serif;
     color: #9F2637;
-    // background-image: linear-gradient(to top right, black 0%, white 100%);
-    text-transform: uppercase;
     position: absolute;
     left: 0;
     right: 0;
@@ -62,9 +60,6 @@
   &__rank-section {
     width: 900px;
   }
-}
-
-body {
 }
 
 @media (max-width: 800px) {
