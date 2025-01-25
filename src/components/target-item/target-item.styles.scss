@@ -16,10 +16,18 @@
 
   &__title {
     cursor: pointer;
-    -webkit-user-select: none;
+    user-select: none;
     padding: 5px;
     margin: 0;
     border: 2px solid blue;
+    border-radius: 10px;
+    border-color: rgb(49, 48, 49);
+    color: rgb(216, 187, 125);
+    font-weight: 500;
+    text-transform: capitalize;
+    text-shadow: 2px 2px 2px black;
+    background: rgb(34,193,195);
+    background: linear-gradient((0deg, rgba(100,100,100,1) 0%, rgba(49,49,49,1) 40%), rgba(100,100,100,1) 60%);
 
     &:hover {
       background-color: lightpink;
