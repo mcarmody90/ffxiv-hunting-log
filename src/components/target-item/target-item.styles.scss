@@ -16,6 +16,10 @@
     width: 47%;
   }
 
+  &__subcontainer {
+    position: relative;
+  }
+
   &__title {
     cursor: pointer;
     user-select: none;
@@ -43,6 +47,12 @@
   p {
     margin: 5px;
   }
+}
+
+.x-button-container {
+  position: absolute;
+  top: 35%;
+  right: 5px;
 }
 
 @media (max-width: 1400px) {

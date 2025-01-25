@@ -12,15 +12,32 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
     setShowChildren(!showChildren);
   }
 
+  const XButton = ({ onClick }) => {
+    return (
+      <button onClick={onClick}>
+        X
+      </button>
+    )
+  }
+
+  const markFinished = (e) => {
+    e.target.parentElement.parentElement.style.display = 'none';
+  }
+
   return (
     <div className='target-item__container'>
       <h3 onClick={handleShowChildren} className='target-item__title'>{Title}</h3>
       {showChildren ? Target.map(target => (
+        <div className='target-item__subcontainer'>
           <div onClick={() => setCurrentTarget(target)} className='target-item' key={uuidv4()}>
             <p className='target-item__name'>{target.Name} x {target.Quantity}</p>
             <p>{target.Zone} - {target.Subzone}</p>
             <p>Coordinates: x {target.Coordinates.x}, y {target.Coordinates.y}</p>
           </div>
+          <div className='x-button-container'>
+            <XButton onClick={markFinished} />
+          </div>
+        </div>
         )
       ) : <p></p>}
     </div>
