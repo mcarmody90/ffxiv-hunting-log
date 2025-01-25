@@ -8,18 +8,6 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
 
   const [showChildren, setShowChildren] = useState(true);
 
-  const XButton = ({ onClick }) => {
-    return (
-      <button onClick={onClick}>
-        <span aria-hidden="true">X</span>
-      </button>
-    );
-  };
-
-  const removeParent = (e) => {
-    console.log(e.target.parentElement.parentElement.remove());
-  };
-
   const handleShowChildren = () => {
     setShowChildren(!showChildren);
   }
@@ -29,7 +17,6 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
       <h3 onClick={handleShowChildren} className='target-item__title'>{Title}</h3>
       {showChildren ? Target.map(target => (
           <div onClick={() => setCurrentTarget(target)} className='target-item' key={uuidv4()}>
-            <XButton onClick={removeParent}></XButton>
             <p className='target-item__name'>{target.Name} x{target.Quantity}</p>
             <p>{target.Zone} - {target.Subzone}</p>
             <p>Coordinates: x {target.Coordinates.x}, y {target.Coordinates.y}</p>
