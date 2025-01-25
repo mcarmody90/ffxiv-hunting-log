@@ -1,6 +1,5 @@
 .target-item {
   text-align: left;
-  // box-shadow: 0 0 3px black;
   border-top: none;
   cursor: pointer;
   color: white;
@@ -49,10 +48,23 @@
   }
 }
 
-.x-button-container {
-  position: absolute;
-  top: 35%;
-  right: 5px;
+.x-button {
+  background-color: transparent;
+  border: none;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 2em;
+  font-weight: 500;
+
+  &:hover {
+    color: white;
+  }
+
+  &__container {
+    position: absolute;
+    top: 20%;
+    right: 5px;
+  }
 }
 
 @media (max-width: 1400px) {

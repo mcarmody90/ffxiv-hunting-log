@@ -14,8 +14,8 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
 
   const XButton = ({ onClick }) => {
     return (
-      <button onClick={onClick}>
-        X
+      <button className='x-button' onClick={onClick}>
+        &#10006;
       </button>
     )
   }
@@ -34,7 +34,7 @@ const TargetItem = ({ setCurrentTarget, children: { Title, Target } }) => {
             <p>{target.Zone} - {target.Subzone}</p>
             <p>Coordinates: x {target.Coordinates.x}, y {target.Coordinates.y}</p>
           </div>
-          <div className='x-button-container'>
+          <div className='x-button__container'>
             <XButton onClick={markFinished} />
           </div>
         </div>
