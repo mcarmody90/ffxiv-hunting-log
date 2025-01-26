@@ -14,11 +14,11 @@
 
   &__name {
     text-transform: uppercase;
-    color: #9F2637;
+    color: rgb(216, 187, 125);
     cursor: pointer;
 
     &:hover {
-      color: lighten(#9F2637, 10%);
+      color: lighten(rgb(216, 187, 125), 20%);
     }
   }
 }
