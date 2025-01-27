@@ -4,6 +4,7 @@ import Map from '../map/map.component';
 import './map-container.styles.scss';
 
 const MapContainer = ({ currentTarget }) => {
+  const zone = require ('../../fixtures/Eorzea.png');
   return (
     <div className='map-container'>
       {currentTarget ? (
@@ -11,7 +12,13 @@ const MapContainer = ({ currentTarget }) => {
           <span className='map-container__title'>{currentTarget.Zone} - {currentTarget.Subzone}</span>
           <Map zone={currentTarget} />
         </Fragment>
-      ) : null}
+      ) : 
+      <div 
+        className='map' 
+        style={{backgroundImage: `url(${zone})`}}
+        >
+      </div>
+    }
     </div>
   )
 };
