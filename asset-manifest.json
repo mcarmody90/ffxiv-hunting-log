@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ffxiv-hunting-log/static/css/main.96c07bdf.chunk.css",
-    "main.js": "/ffxiv-hunting-log/static/js/main.360c00f8.chunk.js",
-    "main.js.map": "/ffxiv-hunting-log/static/js/main.360c00f8.chunk.js.map",
+    "main.css": "/ffxiv-hunting-log/static/css/main.fef1eb9d.chunk.css",
+    "main.js": "/ffxiv-hunting-log/static/js/main.3d5500c7.chunk.js",
+    "main.js.map": "/ffxiv-hunting-log/static/js/main.3d5500c7.chunk.js.map",
     "runtime-main.js": "/ffxiv-hunting-log/static/js/runtime-main.c8726056.js",
     "runtime-main.js.map": "/ffxiv-hunting-log/static/js/runtime-main.c8726056.js.map",
-    "static/js/2.55b91654.chunk.js": "/ffxiv-hunting-log/static/js/2.55b91654.chunk.js",
-    "static/js/2.55b91654.chunk.js.map": "/ffxiv-hunting-log/static/js/2.55b91654.chunk.js.map",
+    "static/js/2.a77d370d.chunk.js": "/ffxiv-hunting-log/static/js/2.a77d370d.chunk.js",
+    "static/js/2.a77d370d.chunk.js.map": "/ffxiv-hunting-log/static/js/2.a77d370d.chunk.js.map",
     "index.html": "/ffxiv-hunting-log/index.html",
-    "precache-manifest.88bc6c5d9b4fa59161ddc54864ca2112.js": "/ffxiv-hunting-log/precache-manifest.88bc6c5d9b4fa59161ddc54864ca2112.js",
+    "precache-manifest.e4e1418019c85a15e8d3cdfac1c51e13.js": "/ffxiv-hunting-log/precache-manifest.e4e1418019c85a15e8d3cdfac1c51e13.js",
     "service-worker.js": "/ffxiv-hunting-log/service-worker.js",
-    "static/css/main.96c07bdf.chunk.css.map": "/ffxiv-hunting-log/static/css/main.96c07bdf.chunk.css.map",
-    "static/js/2.55b91654.chunk.js.LICENSE.txt": "/ffxiv-hunting-log/static/js/2.55b91654.chunk.js.LICENSE.txt",
+    "static/css/main.fef1eb9d.chunk.css.map": "/ffxiv-hunting-log/static/css/main.fef1eb9d.chunk.css.map",
+    "static/js/2.a77d370d.chunk.js.LICENSE.txt": "/ffxiv-hunting-log/static/js/2.a77d370d.chunk.js.LICENSE.txt",
     "static/media/Central-Shroud.png": "/ffxiv-hunting-log/static/media/Central-Shroud.3a2b5a77.png",
     "static/media/Central-Thanalan.png": "/ffxiv-hunting-log/static/media/Central-Thanalan.c99b642f.png",
     "static/media/Coerthas-Central-Highlands.png": "/ffxiv-hunting-log/static/media/Coerthas-Central-Highlands.abf4623d.png",
@@ -40,8 +40,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c8726056.js",
-    "static/js/2.55b91654.chunk.js",
-    "static/css/main.96c07bdf.chunk.css",
-    "static/js/main.360c00f8.chunk.js"
+    "static/js/2.a77d370d.chunk.js",
+    "static/css/main.fef1eb9d.chunk.css",
+    "static/js/main.3d5500c7.chunk.js"
   ]
 }

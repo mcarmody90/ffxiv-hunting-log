@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "41470578c3845582bf73007b12a82727",
+    "revision": "85ad4b8718620d5363312ee2afd58231",
     "url": "/ffxiv-hunting-log/index.html"
   },
   {
-    "revision": "8a87520e41c396c23bc5",
-    "url": "/ffxiv-hunting-log/static/css/main.96c07bdf.chunk.css"
+    "revision": "a977372ca28d4f983353",
+    "url": "/ffxiv-hunting-log/static/css/main.fef1eb9d.chunk.css"
   },
   {
-    "revision": "959e4d45c6279079c192",
-    "url": "/ffxiv-hunting-log/static/js/2.55b91654.chunk.js"
+    "revision": "a6a843008054527bdb53",
+    "url": "/ffxiv-hunting-log/static/js/2.a77d370d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/ffxiv-hunting-log/static/js/2.55b91654.chunk.js.LICENSE.txt"
+    "url": "/ffxiv-hunting-log/static/js/2.a77d370d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8a87520e41c396c23bc5",
-    "url": "/ffxiv-hunting-log/static/js/main.360c00f8.chunk.js"
+    "revision": "a977372ca28d4f983353",
+    "url": "/ffxiv-hunting-log/static/js/main.3d5500c7.chunk.js"
   },
   {
     "revision": "30e69cad5be5633e1415",
