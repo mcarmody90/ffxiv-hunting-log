@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ffxiv-hunting-log/precache-manifest.fd8d4e4e7cd6a2c8d4947b99fb64c751.js"
+  "/ffxiv-hunting-log/precache-manifest.6f82ac5a83f3efa9e25b328a20846b16.js"
 );
 
 self.addEventListener('message', (event) => {
